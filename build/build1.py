@@ -27,7 +27,9 @@ use_preset_vocabulary: true
 ...
 '''
 
-with open('cache/words_certain.tsv') as f, open('zyenpheng.words.dict.yaml', 'w') as g1, open('cache/unhandled.txt', 'w') as g2:
+with open('cache/words_certain.tsv') as f, \
+open('zyenpheng.words.dict.yaml', 'w') as g1, \
+open('cache/unhandled.txt', 'w') as g2:
 	print(header, file=g1)
 	for line in f:
 		ci, gu, _, _ = line.rstrip('\n').split('\t')
