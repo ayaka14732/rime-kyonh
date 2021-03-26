@@ -81,7 +81,7 @@ reverse_lookup:
     - xform/([jqxy])v/$1u/
 
 punctuator:
-  import_preset: default
+  import_preset: symbols
 
 key_binder:
   import_preset: default
@@ -89,4 +89,5 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
+    punct: "^/([0-9]0?|[a-z]+)$"
     reverse_lookup: "`[a-z]*'?$"

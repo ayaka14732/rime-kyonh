@@ -15,9 +15,9 @@ open('ayaka_2021_unspaced.dict.yaml', 'w') as g:
 				g.write('# You should edit ayaka_2021.dict.yaml.\n')
 			elif line == 'name: ayaka_2021\n':
 				g.write('name: ayaka_2021_unspaced\n')
-			elif line in \
-				[ 'use_preset_vocabulary: true\n'
-				, 'import_tables:\n'
+			elif line in [
+					'use_preset_vocabulary: true\n',
+					'import_tables:\n',
 				] or line.startswith('  - '):
 				pass
 			else:
