@@ -1,0 +1,4 @@
+node_modules
+/cache
+/build/ayaka_2021.js
+/ayaka_2021*.dict.yaml

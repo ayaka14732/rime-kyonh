@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "type": "module",
+    "devDependencies": {
+        "qieyun-examples-node": "^0.1.1"
+    }
+}
