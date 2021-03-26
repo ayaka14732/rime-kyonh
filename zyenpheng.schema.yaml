@@ -51,7 +51,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: abcfefghijklmnopqrstuvwxyz
+  alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
     - "xform/'//"
