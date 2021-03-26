@@ -7693,7 +7693,7 @@ import_tables:
 怓	nrau
 怔	cjeng
 怕	phrah
-怕	phrak
+怕	phrak	0%
 怖	phoh
 怗	thep
 怙	ghox
@@ -7747,7 +7747,7 @@ import_tables:
 恌	theu
 恍	kuang
 恎	det
-恐	khyungh
+恐	khyungh	3%
 恐	khyungx
 恑	kyex
 恒	ghong
@@ -27869,6 +27869,9 @@ import_tables:
 忖度	chuonx dak
 志操	cjih chauh
 快樂	khruad lak
+恐怕	khyungh phrah
+恐懼	khyungx gyoh
+恐襲	khyungx zsip
 悔過	huaih kuah
 悖論	buot luonh
 悖逆	buot ngiek
