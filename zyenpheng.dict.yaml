@@ -27612,7 +27612,7 @@ use_preset_vocabulary: true
 部伍	box ngox
 財會	zai kuad
 參差	chrim chrie
-參鼓 	chomh kox
+參鼓	chomh kox
 參觀	chom kuan
 參商	srim sjang
 參數	chom sryoh
@@ -27812,7 +27812,7 @@ use_preset_vocabulary: true
 覆滅	phiuk mjet
 改悔	kaix huaih
 概率	kaih lyt
-高句驪 	kau ku lie
+高句驪	kau ku lie
 高校	kau ghrauh
 高要	kau qjeu
 臯陶	kau jeu
@@ -28482,10 +28482,11 @@ use_preset_vocabulary: true
 質樸	cjit phruk
 質押	triih qrap
 質子	cjit cix
-質子	triih cix
+質子	triih cix	0%
 中的	triungh tek
 中行	triung ghang
 中肯	triungh khongx
+中國	triung kuok
 中校	triung ghrauh
 中意	triungh qih
 種馬	cjyungx mrax
