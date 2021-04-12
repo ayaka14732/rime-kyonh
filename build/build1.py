@@ -20,7 +20,7 @@ header = f'''\
 # encoding: utf-8
 
 ---
-name: zyenpheng.words
+name: kyonh.words
 version: "{datetime.today().strftime('%Y.%m.%d')}"
 sort: by_weight
 use_preset_vocabulary: true
@@ -28,7 +28,7 @@ use_preset_vocabulary: true
 '''
 
 with open('cache/words_certain.tsv') as f, \
-open('zyenpheng.words.dict.yaml', 'w') as g1, \
+open('kyonh.words.dict.yaml', 'w') as g1, \
 open('cache/unhandled.txt', 'w') as g2:
 	print(header, file=g1)
 	for line in f:
@@ -38,4 +38,6 @@ open('cache/unhandled.txt', 'w') as g2:
 			gu = ' '.join(描述2kyonh[baxter2描述[py]] for py in gu.split(' '))
 			print(ci, gu, sep='\t', file=g1)
 		except KeyError:
-			print(ci, gu, sep='\t', file=g2)
+			for c, py in zip(ci, gu.split(' ')):
+				if py not in baxter2描述:
+					print(c, py, sep='\t', file=g2)

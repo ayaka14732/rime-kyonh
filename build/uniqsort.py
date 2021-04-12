@@ -35,5 +35,5 @@ def do(file_path):
 		for ch, py, extra in words:
 			print(ch, py, *extra, sep='\t', file=f)
 
-for file_path in glob('zyenpheng*.dict.yaml'):
+for file_path in glob('kyonh*.dict.yaml'):
 	do(file_path)

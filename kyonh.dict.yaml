@@ -2,12 +2,12 @@
 # encoding: utf-8
 
 ---
-name: zyenpheng
+name: kyonh
 version: "2020.10.15-1"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
-  - zyenpheng.words
+  - kyonh.words
 ...
 
 〇	leng

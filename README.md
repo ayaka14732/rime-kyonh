@@ -5,7 +5,7 @@ Ayaka’s fork of the [rime-middle-chinese](https://github.com/biopolyhedron/rim
 ## Project Structure
 
 - `build`: Build script
-- `zyenpheng.*`: 使用古韻羅馬字的中古拼音方案（根據原古韻羅馬字方案修改而成）
+- `kyonh.*`: 使用古韻羅馬字的中古拼音方案（根據原古韻羅馬字方案修改而成）
 - `ayaka_2021.*`: 使用綾香中古拼音 2021 版（開發中）的中古拼音方案
 
 ## Build

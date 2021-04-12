@@ -2,16 +2,15 @@
 # encoding: utf-8
 
 schema:
-  schema_id: zyenpheng
-  name: 中古全拼
+  schema_id: kyonh
+  name: 古韻羅馬字
   version: "2021.03.26"
   author:
     - polyhedron <biopolyhedron@gmail.com>
     - Ayaka Mikazuki <ayaka@mail.shn.hk>
   description: |-
-    採用《廣韻》音系的中古漢語拼音，亦稱「古韻羅馬字」
-    http://zh.wikipedia.org/wiki/User:Polyhedron/中古漢語拼音
-    https://github.com/nk2028/cedict_middle_chinese
+    中古漢語拼音方案：古韻羅馬字
+    https://zh.wikipedia.org/wiki/User:Polyhedron/中古漢語拼音
   dependencies:
     - luna_pinyin
 
@@ -67,14 +66,14 @@ speller:
     - abbrev/^ng.+$/w/
 
 translator:
-  dictionary: zyenpheng
+  dictionary: kyonh
   spelling_hints: 8
 
 reverse_lookup:
   dictionary: luna_pinyin
   prefix: "`"
   suffix: "'"
-  tips: 〔拼音〕
+  tips: 〔普通話〕
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
