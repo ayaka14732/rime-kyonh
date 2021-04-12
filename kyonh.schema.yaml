@@ -13,6 +13,7 @@ schema:
     https://zh.wikipedia.org/wiki/User:Polyhedron/中古漢語拼音
   dependencies:
     - luna_pinyin
+    - kyonh_unspaced
 
 switches:
   - name: ascii_mode
@@ -38,16 +39,18 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
+    - affix_segmentor@luna_pinyin
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
     - script_translator
-    - reverse_lookup_translator
+    - script_translator@luna_pinyin
   filters:
     - simplifier
     - uniquifier
+    - reverse_lookup_filter@kyonh_reverse_lookup
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
@@ -68,16 +71,26 @@ speller:
 translator:
   dictionary: kyonh
   spelling_hints: 8
+  comment_format:
+    - "xform/$/\u200b/" # 永遠顯示拼音
 
-reverse_lookup:
+luna_pinyin:
+  tag: luna_pinyin
   dictionary: luna_pinyin
   prefix: "`"
-  suffix: "'"
+  suffix: ";"
   tips: 〔普通話〕
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
+
+kyonh_reverse_lookup:
+  tags: [ luna_pinyin ]
+  overwrite_comment: false
+  dictionary: kyonh_unspaced
+  comment_format:
+    - xform/=/ /
 
 punctuator:
   import_preset: symbols
@@ -89,4 +102,4 @@ recognizer:
   import_preset: default
   patterns:
     punct: "^/([0-9]0?|[a-z]+)$"
-    reverse_lookup: "`[a-z]*'?$"
+    luna_pinyin: "`[a-z]*;?$"
