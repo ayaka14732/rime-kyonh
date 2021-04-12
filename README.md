@@ -6,7 +6,6 @@ Ayaka’s fork of the [rime-middle-chinese](https://github.com/biopolyhedron/rim
 
 - `build`: Build script
 - `kyonh.*`: 使用古韻羅馬字的中古拼音方案（根據原古韻羅馬字方案修改而成）
-- `ayaka_2021.*`: 使用綾香中古拼音 2021 版（開發中）的中古拼音方案
 
 ## Build
 
@@ -20,12 +19,4 @@ wget -nc -P cache https://raw.githubusercontent.com/hhliow/cedict_middle_chinese
 python build/build1.py
 python build/uniqsort.py
 python build/build_unspaced.py
-```
-
-### Build `ayaka_2021`
-
-Prepare `build/ayaka_2021.js`.
-
-```sh
-python build/build2.py
 ```
