@@ -3,7 +3,7 @@
 
 ---
 name: kyonh.words
-version: "2021.04.12"
+version: "2021.05.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...

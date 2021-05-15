@@ -3,7 +3,7 @@
 
 ---
 name: kyonh
-version: "2020.10.15-1"
+version: "2020.10.15-2"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -9063,8 +9063,6 @@ import_tables:
 敉	mjex
 敊	thriuk
 敌	ghruat
-敎	krau
-敎	krauh
 敏	minx
 敐	cjinx
 敐	zjin
@@ -27626,7 +27624,7 @@ import_tables:
 住店	dryoh temh
 住手	tryoh sjux
 何種	gha cjyungx
-佛敎	byot krauh
+佛教	byot krauh
 作爲	cak ye
 使用	srix jyungh
 使節	srih cet
@@ -27805,7 +27803,7 @@ import_tables:
 孝悌	hrauh deh
 學校	ghruk ghrauh
 宋朝	sungh drieu
-宗敎	cuung krauh
+宗教	cuung krauh
 宮殿	kiung denh
 宰予	caix jo
 宰相	caix siangh
@@ -27929,22 +27927,22 @@ import_tables:
 改悔	kaix huaih
 政治	cjengh drih
 效率	ghrauh lyt
-敎主	krauh cjyox
-敎學	krauh ghruk
-敎師	krauh srii
-敎徒	krauh do
-敎授	krau zjuh
-敎授	krauh zjuh
-敎書	krau sjo
-敎會	krau ghuad
-敎會	krauh ghuad
-敎的	krau tek
-敎程	krauh drieng
-敎育	krauh juk
-敎課	krau khuah
-敎長	krauh triangx
-敎養	krauh jangx
 救援	kiuh yenh
+教主	krauh cjyox
+教學	krauh ghruk
+教師	krauh srii
+教徒	krauh do
+教授	krau zjuh
+教授	krauh zjuh
+教書	krau sjo
+教會	krau ghuad
+教會	krauh ghuad
+教的	krau tek
+教程	krauh drieng
+教育	krauh juk
+教課	krau khuah
+教長	krauh triangx
+教養	krauh jangx
 數字	sryoh zih
 數學	sryoh ghruk
 數數	sryox sryoh
@@ -28416,7 +28414,7 @@ import_tables:
 避難	bjeh nanh
 邊塞	pen saih
 邪惡	zsia qak
-邪敎	zsia krauh
+邪教	zsia krauh
 邯鄲	ghan tan
 部伍	box ngox
 部曲	box khyuk
@@ -28503,9 +28501,9 @@ import_tables:
 大汶口	dad myonh khux
 將進酒	chiang cinh ciux
 推普機	thuai phox kioi
-敎數學	krau sryoh ghruk
-敎育部	krauh juk bux
-敎語文	krau ngiox myon
+教數學	krau sryoh ghruk
+教育部	krauh juk bux
+教語文	krau ngiox myon
 暴風雨	bauh piung yox
 朋友圈	bong iux khyen
 李世乭	lix sjed duot
