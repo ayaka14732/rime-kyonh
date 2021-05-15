@@ -11,7 +11,7 @@ npm install
 mkdir -p cache
 wget -nc -P cache https://raw.githubusercontent.com/hhliow/cedict_middle_chinese/develop/words_certain.tsv
 node build/generate_map.js
-python build/build1.py
+python build/build.py
 python build/uniqsort.py
 python build/build_unspaced.py
 ```

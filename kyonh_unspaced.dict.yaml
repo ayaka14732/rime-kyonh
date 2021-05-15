@@ -28590,6 +28590,7 @@ sort: by_weight
 一次	qjit=chiih
 一氣	qjit=khioih
 一流	qjit=liu
+一生	qjit=srang
 一甲	qjit=krap
 一直	qjit=drik
 一眼	qjit=ngrenx
@@ -29100,6 +29101,7 @@ sort: by_weight
 互換	ghoh=ghuanh
 互文	ghoh=myon
 互斥	ghoh=chjek
+互生	ghoh=srang
 互異	ghoh=jih
 互粉	ghoh=pyonx
 互素	ghoh=soh
@@ -29332,6 +29334,7 @@ sort: by_weight
 人物	njin=myot
 人犯	njin=byamx
 人猿	njin=yan
+人生	njin=srang
 人禍	njin=ghuax
 人精	njin=cieng
 人緣	njin=jyen
@@ -29390,6 +29393,7 @@ sort: by_weight
 今村	kim=chuon
 今次	kim=chiih
 今歲	kim=syed
+今生	kim=srang
 今譯	kim=jek
 今音	kim=qim
 介乎	kraih=gho
@@ -29732,6 +29736,7 @@ sort: by_weight
 來潮	lai=drieu
 來火	lai=huax
 來犯	lai=byamx
+來生	lai=srang
 來由	lai=ju
 來神	lai=zsjin
 來義	lai=ngieh
@@ -30158,6 +30163,7 @@ sort: by_weight
 催情	chuai=zieng
 催淚	chuai=lyih
 催熟	chuai=zjuk
+催生	chuai=srang
 催眠	chuai=men
 催肥	chuai=byoi
 催膘	chuai=phjeux
@@ -30267,6 +30273,7 @@ sort: by_weight
 優柔	qiu=nju
 優步	qiu=boh
 優渥	qiu=qruk
+優生	qiu=srang
 優異	qiu=jih
 優盤	qiu=buan
 優秀	qiu=siuh
@@ -30679,6 +30686,7 @@ sort: by_weight
 共同	gyungh=dung
 共商	gyungh=sjang
 共存	gyungh=zuon
+共生	gyungh=srang
 共用	gyungh=jyungh
 共管	gyungh=kuanx
 共謀	gyungh=miu
@@ -30744,6 +30752,7 @@ sort: by_weight
 再版	caih=pranx
 再犯	caih=byamx
 再現	caih=ghenh
+再生	caih=srang
 再發	caih=pyat
 再者	caih=cjax
 再育	caih=juk
@@ -30996,6 +31005,7 @@ sort: by_weight
 初步	chrio=boh
 初潮	chrio=drieu
 初犯	chrio=byamx
+初生	chrio=srang
 初秋	chrio=chiu
 初等	chrio=tongx
 初級	chrio=kip
@@ -33815,6 +33825,7 @@ sort: by_weight
 外海	nguad=haix
 外源	nguad=ngyan
 外牆	nguad=ziang
+外甥	nguad=srang
 外用	nguad=jyungh
 外界	nguad=kraih
 外皮	nguad=bie
@@ -34002,6 +34013,7 @@ sort: by_weight
 天理	then=lix
 天璇	then=zsyen
 天璣	then=kioi
+天生	then=srang
 天界	then=kraih
 天癸	then=kjyix
 天皇	then=ghuang
@@ -34481,6 +34493,11 @@ sort: by_weight
 子集	cix=zip
 子音	cix=qim
 子鼠	cix=sjox
+孑孑	kiet=kiet
+孑孓	kiet=kyungx
+孑然	kiet=njen
+孑立	kiet=lip
+孑身	kiet=sjin
 孔丘	khungx=khiu
 孔子	khungx=cix
 孔孟	khungx=mrangh
@@ -34581,6 +34598,7 @@ sort: by_weight
 孤傲	ko=ngauh
 孤孀	ko=sriang
 孤子	ko=cix
+孤孑	ko=kiet
 孤寂	ko=zek
 孤寒	ko=ghan
 孤寡	ko=kruax
@@ -34707,6 +34725,7 @@ sort: by_weight
 安然	qan=njen
 安營	qan=jyeng
 安瓶	qan=beng
+安生	qan=srang
 安眠	qan=men
 安神	qan=zsjin
 安祥	qan=zsiang
@@ -34987,6 +35006,7 @@ sort: by_weight
 寄存	kieh=zuon
 寄懷	kieh=ghruai
 寄母	kieh=mux
+寄生	kieh=srang
 寄發	kieh=pyat
 寄籍	kieh=ziek
 寄託	kieh=thak
@@ -35188,6 +35208,7 @@ sort: by_weight
 寫手	siax=sjux
 寫法	siax=pyap
 寫照	siax=cjeuh
+寫生	siax=srang
 寬亮	khuan=liangh
 寬免	khuan=mienx
 寬口	khuan=khux
@@ -35618,6 +35639,7 @@ sort: by_weight
 尾流	myoix=liu
 尾燈	myoix=tong
 尾牙	myoix=ngra
+尾生	myoix=srang
 尾礦	myoix=kruangx
 尾翼	myoix=jik
 尾聲	myoix=sjeng
@@ -36073,6 +36095,7 @@ sort: by_weight
 師尊	srii=cuon
 師徒	srii=do
 師母	srii=mux
+師生	srii=srang
 師範	srii=byamx
 師表	srii=pieux
 師資	srii=cii
@@ -36750,6 +36773,7 @@ sort: by_weight
 往昔	yangx=siek
 往時	yangx=zji
 往歲	yangx=syed
+往生	yangx=srang
 往程	yangx=drieng
 往跡	yangx=ciek
 往返	yangx=pyanx
@@ -37936,6 +37960,7 @@ sort: by_weight
 所指	sriox=cjiix
 所有	sriox=iux
 所為	sriox=ye
+所生	sriox=srang
 所知	sriox=trie
 所致	sriox=triih
 所謂	sriox=yoih
@@ -38528,6 +38553,7 @@ sort: by_weight
 捐款	jyen=khuanx
 捐物	jyen=myot
 捐班	jyen=pran
+捐生	jyen=srang
 捐稅	jyen=sjyed
 捐給	jyen=kip
 捐血	jyen=huet
@@ -38628,6 +38654,7 @@ sort: by_weight
 排演	brai=jenx
 排版	brai=pranx
 排球	brai=giu
+排笙	brai=srang
 排簫	brai=seu
 排練	brai=lenh
 排翅	brai=sjeh
@@ -39219,6 +39246,7 @@ sort: by_weight
 救星	kiuh=seng
 救火	kiuh=huax
 救災	kiuh=cai
+救生	kiuh=srang
 救護	kiuh=ghoh
 救贖	kiuh=zsjyuk
 敖廣	ngau=kuangx
@@ -39473,6 +39501,7 @@ sort: by_weight
 新潮	sin=drieu
 新營	sin=jyeng
 新版	sin=pranx
+新生	sin=srang
 新田	sin=den
 新界	sin=kraih
 新異	sin=jih
@@ -39882,6 +39911,7 @@ sort: by_weight
 晚景	myanx=kiengx
 晚期	myanx=gi
 晚清	myanx=chieng
+晚生	myanx=srang
 晚育	myanx=juk
 晚輩	myanx=puaih
 晚間	myanx=krenh
@@ -40104,6 +40134,7 @@ sort: by_weight
 書櫃	sjo=gyih
 書法	sjo=pyap
 書牘	sjo=duk
+書生	sjo=srang
 書皮	sjo=bie
 書目	sjo=miuk
 書眉	sjo=mii
@@ -41656,6 +41687,7 @@ sort: by_weight
 死水	siix=sjyix
 死海	siix=haix
 死球	siix=giu
+死生	siix=srang
 死硬	siix=ngrengh
 死神	siix=zsjin
 死穴	siix=ghuet
@@ -41734,6 +41766,7 @@ sort: by_weight
 殺敵	sret=dek
 殺死	sret=siix
 殺滅	sret=mjet
+殺生	sret=srang
 殺絕	sret=zyet
 殺菌	sret=gynx
 殺頭	sret=du
@@ -41842,6 +41875,7 @@ sort: by_weight
 民歌	mjin=ka
 民法	mjin=pyap
 民營	mjin=jyeng
+民生	mjin=srang
 民用	mjin=jyungh
 民科	mjin=khua
 民航	mjin=ghang
@@ -41917,6 +41951,7 @@ sort: by_weight
 水玉	sjyix=ngyuk
 水珠	sjyix=cjyo
 水球	sjyix=giu
+水生	sjyix=srang
 水田	sjyix=den
 水療	sjyix=lieuh
 水盂	sjyix=yo
@@ -42015,6 +42050,7 @@ sort: by_weight
 求救	giu=kiuh
 求是	giu=zjex
 求歡	giu=huan
+求生	giu=srang
 求知	giu=trie
 求職	giu=cjik
 求證	giu=cjingh
@@ -42455,6 +42491,7 @@ sort: by_weight
 派勢	phreh=sjed
 派對	phreh=tuaih
 派性	phreh=siengh
+派生	phreh=srang
 派系	phreh=gheh
 派購	phreh=kuh
 派送	phreh=sungh
@@ -43132,6 +43169,7 @@ sort: by_weight
 滋味	ci=myoih
 滋擾	ci=njeux
 滋潤	ci=njynh
+滋生	ci=srang
 滋芽	ci=ngra
 滋補	ci=pox
 滋賀	ci=ghah
@@ -43958,6 +43996,7 @@ sort: by_weight
 營救	jyeng=kiuh
 營業	jyeng=ngiap
 營求	jyeng=giu
+營生	jyeng=srang
 營盤	jyeng=buan
 營私	jyeng=sii
 營謀	jyeng=miu
@@ -44168,6 +44207,9 @@ sort: by_weight
 物資	myot=cii
 物鏡	myot=kiengh
 物體	myot=thex
+牲口	srang=khux
+牲禮	srang=lex
+牲體	srang=thex
 牴觸	tex=chjyuk
 牸牛	zih=ngiu
 牸馬	zih=mrax
@@ -44227,6 +44269,7 @@ sort: by_weight
 犎牛	pyung=ngiu
 犒賞	khauh=sjangx
 犢子	duk=cix
+犧牲	hie=srang
 犪牛	gyi=ngiu
 犬儒	khuenx=njyo
 犬戎	khuenx=njung
@@ -44335,6 +44378,8 @@ sort: by_weight
 猢猻	gho=suon
 猥瑣	quaix=suax
 猥褻	quaix=siet
+猩猩	srang=srang
+猩紅	srang=ghung
 猳國	kra=kuok
 猴兒	ghu=nje
 猴子	ghu=cix
@@ -44379,6 +44424,7 @@ sort: by_weight
 獨步	duk=boh
 獨特	duk=dok
 獨獨	duk=duk
+獨生	duk=srang
 獨白	duk=brak
 獨秀	duk=siuh
 獨立	duk=lip
@@ -44891,6 +44937,7 @@ sort: by_weight
 男星	nom=seng
 男根	nom=kon
 男爵	nom=ciak
+男生	nom=srang
 男的	nom=tek
 男神	nom=zsjin
 男童	nom=dung
@@ -44923,6 +44970,7 @@ sort: by_weight
 畢摩	pjit=mua
 畢昇	pjit=sjing
 畢業	pjit=ngiap
+畢生	pjit=srang
 畢竟	pjit=kiengh
 畢節	pjit=cet
 畢肖	pjit=sieuh
@@ -45218,6 +45266,7 @@ sort: by_weight
 發獎	pyat=ciangx
 發現	pyat=ghenh
 發球	pyat=giu
+發生	pyat=srang
 發病	pyat=biengh
 發痛	pyat=thungh
 發癢	pyat=jangx
@@ -46011,6 +46060,13 @@ sort: by_weight
 碑誌	pie=cjih
 碑銘	pie=meng
 碑額	pie=ngrak
+碧玉	piek=ngyuk
+碧璽	piek=siex
+碧眼	piek=ngrenx
+碧空	piek=khung
+碧綠	piek=lyuk
+碧藍	piek=lam
+碧血	piek=huet
 碩士	zjek=zrix
 碩果	zjek=kuax
 確乎	khruk=gho
@@ -46661,6 +46717,7 @@ sort: by_weight
 竹林	triuk=lim
 竹溪	triuk=khe
 竹田	triuk=den
+竹笙	triuk=srang
 竹筍	triuk=synx
 竹管	triuk=kuanx
 竹節	triuk=cet
@@ -46674,6 +46731,10 @@ sort: by_weight
 竿子	kan=cix
 竿頭	kan=du
 笄年	ke=nen
+笙歌	srang=ka
+笙管	srang=kuanx
+笙簧	srang=ghuang
+笙簫	srang=seu
 笛子	dek=cix
 笞刑	thri=gheng
 笞撻	thri=that
@@ -47350,6 +47411,7 @@ sort: by_weight
 終期	cjung=gi
 終極	cjung=gik
 終止	cjung=cjix
+終生	cjung=srang
 終究	cjung=kiuh
 終端	cjung=tuan
 終結	cjung=ket
@@ -48129,6 +48191,7 @@ sort: by_weight
 老歌	laux=ka
 老漢	laux=hanh
 老爸	laux=buax
+老生	laux=srang
 老粗	laux=zox
 老練	laux=lenh
 老繭	laux=kenx
@@ -48176,6 +48239,7 @@ sort: by_weight
 考期	khaux=gi
 考本	khaux=puonx
 考核	khaux=ghrek
+考生	khaux=srang
 考研	khaux=ngenh
 考究	khaux=kiuh
 考績	khaux=cek
@@ -48479,6 +48543,7 @@ sort: by_weight
 胎動	thai=dungx
 胎壓	thai=qrap
 胎座	thai=zuah
+胎生	thai=srang
 胎盤	thai=buan
 胎糞	thai=pyonh
 胎記	thai=kih
@@ -48501,6 +48566,7 @@ sort: by_weight
 胡狼	gho=lang
 胡琴	gho=gim
 胡瓜	gho=krua
+胡笙	gho=srang
 胡臭	gho=chjuh
 胡芫	gho=ngyan
 胡花	gho=hrua
@@ -48537,6 +48603,7 @@ sort: by_weight
 脹起	triangh=khix
 脾胃	bje=yoih
 腋毛	jek=mau
+腋生	jek=srang
 腋臭	jek=chjuh
 腋芽	jek=ngra
 腎炎	zjinx=iem
@@ -49132,6 +49199,7 @@ sort: by_weight
 花環	hrua=ghruan
 花瓣	hrua=brenh
 花瓶	hrua=beng
+花生	hrua=srang
 花用	hrua=jyungh
 花甲	hrua=krap
 花痴	hrua=thri
@@ -49425,6 +49493,7 @@ sort: by_weight
 萇楚	driang=chrioh
 萋萋	che=che
 萌動	mreng=dungx
+萌生	mreng=srang
 萌發	mreng=pyat
 萌芽	mreng=ngra
 萍鄉	beng=hiang
@@ -50792,6 +50861,7 @@ sort: by_weight
 謀智	miu=trieh
 謀殺	miu=sret
 謀求	miu=giu
+謀生	miu=srang
 謀略	miu=liak
 謀職	miu=cjik
 謀臣	miu=zjin
@@ -51198,6 +51268,7 @@ sort: by_weight
 貢山	kungh=sren
 貢布	kungh=poh
 貢物	kungh=myot
+貢生	kungh=srang
 貢茶	kungh=dra
 貢賦	kungh=pyoh
 貧乏	bin=byap
@@ -51570,6 +51641,7 @@ sort: by_weight
 超時	thrieu=zji
 超模	thrieu=mo
 超渡	thrieu=doh
+超生	thrieu=srang
 超界	thrieu=kraih
 超等	thrieu=tongx
 超級	thrieu=kip
@@ -52179,6 +52251,7 @@ sort: by_weight
 逃漏	dau=luh
 逃犯	dau=byamx
 逃獄	dau=ngyuk
+逃生	dau=srang
 逃稅	dau=sjyed
 逃竄	dau=chuanh
 逃荒	dau=huang
@@ -53440,6 +53513,7 @@ sort: by_weight
 門牙	muon=ngra
 門球	muon=giu
 門環	muon=ghruan
+門生	muon=srang
 門神	muon=zsjin
 門童	muon=dung
 門第	muon=deh
@@ -53795,6 +53869,7 @@ sort: by_weight
 陋屋	luh=quk
 陋習	luh=zsip
 陋規	luh=kjye
+陌生	mrak=srang
 陌路	mrak=loh
 陌陌	mrak=mrak
 限價	ghrenx=krah
@@ -54167,6 +54242,7 @@ sort: by_weight
 雙溪	srung=khe
 雙灤	srung=luan
 雙獨	srung=duk
+雙生	srung=srang
 雙盲	srung=mrang
 雙眸	srung=miu
 雙眼	srung=ngrenx
@@ -54266,6 +54342,7 @@ sort: by_weight
 雪片	syet=phenh
 雪球	syet=giu
 雪白	syet=brak
+雪碧	syet=piek
 雪紡	syet=phyangx
 雪線	syet=sienh
 雪耳	syet=njix
@@ -56294,6 +56371,7 @@ sort: by_weight
 一年半	qjit=nen=puanh
 一年多	qjit=nen=ta
 一年期	qjit=nen=gi
+一年生	qjit=nen=srang
 一把手	qjit=prax=sjux
 一撥兒	qjit=puat=nje
 一攬子	qjit=lamx=cix
@@ -56413,6 +56491,7 @@ sort: by_weight
 中國通	triung=kuok=thung
 中國鈸	triung=kuok=buat
 中壓管	triung=qrap=kuanx
+中學生	triung=ghruk=srang
 中山裝	triung=sren=criang
 中微子	triung=myoi=cix
 中心矩	triung=sim=kyox
@@ -56506,6 +56585,7 @@ sort: by_weight
 二地主	njiih=diih=cjyox
 二婚頭	njiih=huon=du
 二尖瓣	njiih=ciem=brenh
+二年生	njiih=nen=srang
 二手房	njiih=sjux=byang
 二手煙	njiih=sjux=qen
 二手貨	njiih=sjux=huah
@@ -56880,6 +56960,7 @@ sort: by_weight
 傑里科	giet=lix=khua
 傑里米	giet=lix=mex
 備用環	biih=jyungh=ghruan
+催生婆	chuai=srang=bua
 催眠曲	chuai=men=khyuk
 催眠藥	chuai=men=jak
 催眠術	chuai=men=zsjyt
@@ -57067,6 +57148,7 @@ sort: by_weight
 再保證	caih=paux=cjingh
 再保險	caih=paux=hiemx
 再利用	caih=liih=jyungh
+再發生	caih=pyat=srang
 再融資	caih=jung=cii
 再製紙	caih=cjed=cjex
 冕柳鶯	mienx=liux=qreng
@@ -57087,6 +57169,7 @@ sort: by_weight
 冰球場	ping=giu=driang
 冰醋酸	ping=choh=suan
 冶金學	jax=kim=ghruk
+准生證	cjynx=srang=cjingh
 准考證	cjynx=khaux=cjingh
 凌志美	ling=cjih=miix
 凌波舞	ling=pua=myox
@@ -57116,6 +57199,7 @@ sort: by_weight
 刊誤表	khan=ngoh=pieux
 刑訴法	gheng=soh=pyap
 划得來	ghrua=tok=lai
+初中生	chrio=triung=srang
 初始化	chrio=sjix=hruah
 初學者	chrio=ghruk=cjax
 判例法	phuanh=lied=pyap
@@ -57503,6 +57587,7 @@ sort: by_weight
 古文明	kox=myon=mieng
 古新統	kox=sin=thuungh
 古玩店	kox=nguanh=temh
+古生物	kox=srang=myot
 古登堡	kox=tong=paux
 古盜鳥	kox=dauh=teux
 古縴道	kox=khen=daux
@@ -57516,6 +57601,7 @@ sort: by_weight
 叫花子	keuh=hrua=cix
 召集人	drieuh=zip=njin
 可倫坡	khax=lyn=phua
+可再生	khax=caih=srang
 可勁兒	khax=kjengh=nje
 可可米	khax=khax=mex
 可塑性	khax=soh=siengh
@@ -58053,6 +58139,7 @@ sort: by_weight
 多巴胺	ta=pra=qat
 多幕劇	ta=mak=giek
 多年來	ta=nen=lai
+多年生	ta=nen=srang
 多得是	ta=tok=zjex
 多方位	ta=pyang=yih
 多方面	ta=pyang=mjenh
@@ -58361,6 +58448,7 @@ sort: by_weight
 宣威市	syen=qyoi=zjix
 宣武門	syen=myox=muon
 宣誓書	syen=zjed=sjo
+宰牲節	caix=srang=cet
 害月子	ghad=ngyat=cix
 家八哥	kra=pret=ka
 家家酒	kra=kra=ciux
@@ -58375,6 +58463,8 @@ sort: by_weight
 寄件者	kieh=gienx=cjax
 寄存器	kieh=zuon=khiih
 寄物櫃	kieh=myot=gyih
+寄生物	kieh=srang=myot
+寄生者	kieh=srang=cjax
 密山市	mit=sren=zjix
 密歇根	mit=hiat=kon
 密特朗	mit=dok=langx
@@ -58402,6 +58492,7 @@ sort: by_weight
 實幹家	zsjit=kanh=kra
 實業家	zsjit=ngiap=kra
 實況主	zsjit=hyangh=cjyox
+實習生	zsjit=zsip=srang
 實際性	zsjit=cied=siengh
 實驗室	zsjit=ngiemh=sjit
 實驗所	zsjit=ngiemh=sriox
@@ -58486,6 +58577,7 @@ sort: by_weight
 小娃娃	sieux=qre=qre
 小孩兒	sieux=ghai=nje
 小孩子	sieux=ghai=cix
+小學生	sieux=ghruk=srang
 小家鼠	sieux=kra=sjox
 小屁孩	sieux=phjiih=ghai
 小年人	sieux=nen=njin
@@ -58563,6 +58655,7 @@ sort: by_weight
 小黃瓜	sieux=ghuang=krua
 小龍蝦	sieux=lyung=ghra
 尖吻鱸	ciem=myonx=lo
+尖子生	ciem=cix=srang
 尖石鄉	ciem=zjek=hiang
 尖管麵	ciem=kuanx=menh
 尖草坪	ciem=chaux=bieng
@@ -58903,6 +58996,7 @@ sort: by_weight
 微晶片	myoi=cieng=phenh
 微機化	myoi=kioi=hruah
 微波爐	myoi=pua=lo
+微生物	myoi=srang=myot
 微粒體	myoi=lip=thex
 微血管	myoi=huet=kuanx
 微電子	myoi=denh=cix
@@ -59437,6 +59531,7 @@ sort: by_weight
 敏感性	minx=komx=siengh
 救撈局	kiuh=lau=gyuk
 救災款	kiuh=cai=khuanx
+救生筏	kiuh=srang=byat
 救贖主	kiuh=zsjyuk=cjyox
 敖德薩	ngau=tok=sat
 敖漢旗	ngau=hanh=gi
@@ -59547,6 +59642,7 @@ sort: by_weight
 新泰市	sin=thad=zjix
 新澤西	sin=drak=se
 新營市	sin=jyeng=zjix
+新生代	sin=srang=daih
 新石器	sin=zjek=khiih
 新社鄉	sin=zjax=hiang
 新竹市	sin=triuk=zjix
@@ -59811,6 +59907,7 @@ sort: by_weight
 本拉登	puonx=lop=tong
 本星期	puonx=seng=gi
 本溪市	puonx=khe=zjix
+本科生	puonx=khua=srang
 朱元璋	cjyo=ngyan=cjang
 朱利婭	cjyo=liih=qrah
 朱利安	cjyo=liih=qan
@@ -59886,6 +59983,7 @@ sort: by_weight
 杏仁體	ghrangx=njin=thex
 杏花嶺	ghrangx=hrua=liengx
 杏花村	ghrangx=hrua=chuon
+杜月笙	dox=ngyat=srang
 杜荀鶴	dox=syn=ghak
 杜蕾斯	dox=luaix=sie
 杜鵑座	dox=kuen=zuah
@@ -60119,6 +60217,7 @@ sort: by_weight
 構想圖	kuh=siangx=do
 構詞學	kuh=zsi=ghruk
 槭糖漿	ciuk=dang=ciang
+槲寄生	ghuk=kieh=srang
 樓梯口	lu=the=khux
 樓梯臺	lu=the=dai
 樓梯間	lu=the=krenh
@@ -60984,6 +61083,8 @@ sort: by_weight
 特雷沃	dok=luai=quuk
 特雷莎	dok=luai=sua
 特魯多	dok=lox=ta
+犧牲品	hie=srang=phimx
+犧牲者	hie=srang=cjax
 犯罪學	byamx=zuaix=ghruk
 犯罪者	byamx=zuaix=cjax
 狀聲詞	zriangh=sjeng=zsi
@@ -61000,6 +61101,8 @@ sort: by_weight
 狼牙山	lang=ngra=sren
 猛勁兒	mrangx=kjengh=nje
 猜得透	chai=tok=thuh
+猩紅熱	srang=ghung=njet
+猩紅色	srang=ghung=srik
 猴孩子	ghu=ghai=cix
 猴皮筋	ghu=bie=kion
 猴麵包	ghu=menh=prau
@@ -61520,6 +61623,8 @@ sort: by_weight
 碎碎念	suaih=suaih=nemh
 碎紙機	suaih=cjex=kioi
 碎音鈸	suaih=qim=buat
+碧昂絲	piek=ngang=si
+碧螺春	piek=lua=chjyn
 碾子山	nrienh=cix=sren
 碾米機	nrienh=mex=kioi
 磐石市	buan=zjek=zjix
@@ -62532,6 +62637,7 @@ sort: by_weight
 落地籤	lak=diih=chiem
 落基山	lak=ki=sren
 落水管	lak=sjyix=kuanx
+落花生	lak=hrua=srang
 落馬洲	lak=mrax=cju
 葛法翁	kat=pyap=qung
 葛縷子	kat=lyox=cix
@@ -64370,6 +64476,7 @@ sort: by_weight
 黑浮鷗	hok=biu=qu
 黑澤明	hok=drak=mieng
 黑煤玉	hok=muai=ngyuk
+黑猩猩	hok=srang=srang
 黑琴雞	hok=gim=ke
 黑百靈	hok=prak=leng
 黑皮諾	hok=bie=nak
@@ -64601,6 +64708,7 @@ sort: by_weight
 七拼八湊	chit=preng=pret=chuh
 七政四餘	chit=cjengh=siih=jo
 七旬老人	chit=zsyn=laux=njin
+七竅生煙	chit=kheuh=srang=qen
 七老八十	chit=laux=pret=zjip
 七聲音階	chit=sjeng=qim=krai
 七葷八素	chit=hyon=pret=soh
@@ -64621,6 +64729,7 @@ sort: by_weight
 三權鼎立	sam=gyen=tengx=lip
 三次方程	sam=chiih=pyang=drieng
 三次曲線	sam=chiih=khyuk=sienh
+三生有幸	sam=srang=iux=ghrengx
 三藩叛亂	sam=pyan=buanh=luanh
 三角戀愛	sam=kruk=lyenh=qaih
 三貞九烈	sam=trieng=kiux=liet
@@ -64667,6 +64776,7 @@ sort: by_weight
 亂七八糟	luanh=chit=pret=cau
 亂成一團	luanh=zjeng=qjit=duan
 亂臣賊子	luanh=zjin=zok=cix
+了卻此生	leux=khiak=chiex=srang
 了無新意	leux=myo=sin=qih
 二八佳人	njiih=pret=kre=njin
 二十一條	njiih=zjip=qjit=deu
@@ -64962,6 +65072,7 @@ sort: by_weight
 健康受損	gianh=khang=zjux=suonx
 健康狀況	gianh=khang=zriangh=hyangh
 健美運動	gianh=miix=yonh=dungx
+側生動物	crik=srang=dungx=myot
 偷天換日	thu=then=ghuanh=njit
 偷香竊玉	thu=hiang=chet=ngyuk
 傑伊漢港	giet=qjii=hanh=krungx
@@ -65440,6 +65551,7 @@ sort: by_weight
 同軸圓弧	dung=driuk=yen=gho
 同軸電纜	dung=driuk=denh=lamh
 同途殊歸	dung=do=zjyo=kyoi
+同配生殖	dung=phuaih=srang=zjik
 名噪一時	mjeng=sauh=qjit=zji
 名存實亡	mjeng=zuon=zsjit=myang
 名揚四海	mjeng=jang=siih=haix
@@ -65811,6 +65923,7 @@ sort: by_weight
 好整以暇	hauh=cjengx=jix=ghrah
 妖魔鬼怪	qieu=mua=kyoix=kruaih
 妙手回春	mjeuh=sjux=ghuai=chjyn
+妙筆生花	mjeuh=pit=srang=hrua
 姆巴巴納	muh=pra=pra=nop
 姍姍來遲	san=san=lai=drii
 姑妄言之	ko=myangh=ngian=cji
@@ -65834,6 +65947,9 @@ sort: by_weight
 嫌貧愛富	ghem=bin=qaih=piuh
 子子孫孫	cix=cix=suon=suon
 子孫娘娘	cix=suon=nriang=nriang
+孑孑為義	kiet=kiet=ye=ngieh
+孑然一身	kiet=njen=qjit=sjin
+孑立無依	kiet=lip=myo=qioi
 孔孟之道	khungx=mrangh=cji=daux
 孔武有力	khungx=myox=iux=lik
 孔融讓梨	khungx=jung=njangh=lii
@@ -65849,6 +65965,7 @@ sort: by_weight
 孟加拉國	mrangh=kra=lop=kuok
 孟加拉灣	mrangh=kra=lop=qruan
 孟德斯鳩	mrangh=tok=sie=kiu
+孤孑特立	ko=kiet=dok=lip
 孤家寡人	ko=kra=kruax=njin
 孤注一擲	ko=cjyoh=qjit=driek
 孤立子波	ko=lip=cix=pua
@@ -65991,6 +66108,7 @@ sort: by_weight
 小人得志	sieux=njin=tok=cjih
 小兩口兒	sieux=liangx=khux=nje
 小型巴士	sieux=gheng=pra=zrix
+小家碧玉	sieux=kra=piek=ngyuk
 小寫字母	sieux=siax=zih=mux
 小山包包	sieux=sren=prau=prau
 小心翼翼	sieux=sim=jik=jik
@@ -66300,6 +66418,7 @@ sort: by_weight
 忽魯謨斯	huot=lox=mo=sie
 怡然自得	ji=njen=ziih=tok
 怡顏悅色	ji=ngran=jyet=srik
+急中生智	kip=triung=srang=trieh
 急如星火	kip=njo=seng=huax
 急急忙忙	kip=kip=mang=mang
 急性腸炎	kip=siengh=driang=iem
@@ -66328,6 +66447,7 @@ sort: by_weight
 悲天憫人	pii=then=minx=njin
 情同骨肉	zieng=dung=kuot=njuk
 情境模型	zieng=kiengx=mo=gheng
+情急智生	zieng=kip=trieh=srang
 情有可原	zieng=iux=khax=ngyan
 情有獨鍾	zieng=iux=duk=cjyung
 情竇初開	zieng=duh=chrio=khai
@@ -66392,6 +66512,7 @@ sort: by_weight
 應用物理	qingh=jyungh=myot=lix
 應用程式	qingh=jyungh=drieng=sjik
 應用軟件	qingh=jyungh=njyenx=gienx
+應運而生	qingh=yonh=nji=srang
 懲一警百	dring=qjit=kiengx=prak
 懵懵懂懂	mungx=mungx=tungx=tungx
 懶得搭理	lanx=tok=thap=lix
@@ -66687,6 +66808,7 @@ sort: by_weight
 日本黑道	njit=puonx=hok=daux
 日無暇晷	njit=myo=ghrah=kyix
 日落西山	njit=lak=se=sren
+日落風生	njit=lak=piung=srang
 日薄崦嵫	njit=bak=qiem=ci
 日電電子	njit=denh=denh=cix
 早睡早起	caux=zjyeh=caux=khix
@@ -66928,6 +67050,7 @@ sort: by_weight
 栗頭雀鶥	lit=du=ciak=mii
 栗頰噪鶥	lit=kep=sauh=mii
 栗額鶪鶥	lit=ngrak=kuek=mii
+栩栩如生	hyox=hyox=njo=srang
 核子醫學	ghrek=cix=qi=ghruk
 核對帳目	ghrek=tuaih=triangh=miuk
 核糖核酸	ghrek=dang=ghrek=suan
@@ -67031,6 +67154,7 @@ sort: by_weight
 歸心似箭	kyoi=sim=zsix=cienh
 歸根到底	kyoi=kon=tauh=tex
 歸根結底	kyoi=kon=ket=tex
+死中求生	siix=triung=giu=srang
 死乞白賴	siix=khiot=brak=lad
 死亡筆記	siix=myang=pit=kih
 死心踏地	siix=sim=thop=diih
@@ -67107,6 +67231,7 @@ sort: by_weight
 河外星雲	gha=nguad=seng=yon
 河豚毒素	gha=duon=duuk=soh
 沸沸揚揚	pyoih=pyoih=jang=jang
+油然而生	ju=njen=nji=srang
 治國理政	dri=kuok=lix=cjengh
 沼澤地帶	cjeux=drak=diih=tad
 沼澤山雀	cjeux=drak=sren=ciak
@@ -67391,6 +67516,7 @@ sort: by_weight
 焦頭爛額	cieu=du=lanh=ngrak
 煙花柳巷	qen=hrua=liux=ghrungh
 煙花粉黛	qen=hrua=pyonx=daih
+煢煢孑立	gjyeng=gjyeng=kiet=lip
 煥然一新	huanh=njen=qjit=sin
 照本宣科	cjeuh=puonx=syen=khua
 照片底版	cjeuh=phenh=tex=pranx
@@ -67670,6 +67796,7 @@ sort: by_weight
 白雪公主	brak=syet=kung=cjyox
 白雪皚皚	brak=syet=ngai=ngai
 白雲機場	brak=yon=kioi=driang
+白面書生	brak=mjenh=sjo=srang
 白頂玄鷗	brak=tengx=ghuen=qu
 白項鳳鶥	brak=ghrungx=biungh=mii
 白領八哥	brak=liengx=pret=ka
@@ -67784,6 +67911,7 @@ sort: by_weight
 硝酸甘油	sieu=suan=kam=ju
 碎心裂膽	suaih=sim=liet=tamx
 碎片整理	suaih=phenh=cjengx=lix
+碧草如茵	piek=chaux=njo=qjin
 碩士學位	zjek=zrix=ghruk=yih
 碩果僅存	zjek=kuax=ginh=zuon
 礙手礙腳	ngaih=sjux=ngaih=kiak
@@ -68344,6 +68472,7 @@ sort: by_weight
 芳香療法	phyang=hiang=lieuh=pyap
 苛捐雜稅	gha=jyen=zop=sjyed
 苯甲酸鈉	puonx=krap=suan=njyed
+英勇犧牲	qieng=jyungx=hie=srang
 英國石油	qieng=kuok=zjek=ju
 英姿颯爽	qieng=cii=sop=sriangx
 英年早逝	qieng=nen=caux=zjed
@@ -68445,6 +68574,7 @@ sort: by_weight
 蘭斯洛特	lan=sie=lak=dok
 蘭新鐵路	lan=sin=thet=loh
 蘭開斯特	lan=khai=sie=dok
+虎口餘生	hox=khux=jo=srang
 虎尾春冰	hox=myoix=chjyn=ping
 虎斑地鶇	hox=pran=diih=tung
 虎斑鸚鵡	hox=pran=qreng=myox
@@ -68668,6 +68798,7 @@ sort: by_weight
 赫福特郡	hrak=piuk=dok=gyonh
 赫耳墨斯	hrak=njix=mok=sie
 起早貪黑	khix=caux=thom=hok
+起死回生	khix=siix=ghuai=srang
 起落裝置	khix=lak=criang=trih
 超乎尋常	thrieu=gho=zsim=zjang
 超導電性	thrieu=dauh=denh=siengh
@@ -68861,6 +68992,8 @@ sort: by_weight
 金田起義	kim=den=khix=ngieh
 金眼鶥雀	kim=ngrenx=mii=ciak
 金石良言	kim=zjek=liang=ngian
+金碧熒煌	kim=piek=ghueng=ghuang
+金碧輝煌	kim=piek=hyoi=ghuang
 金翅噪鶥	kim=sjeh=sauh=mii
 金色鴉雀	kim=srik=qra=ciak
 金蘭之交	kim=lan=cji=krau
@@ -68879,6 +69012,7 @@ sort: by_weight
 金頭黑雀	kim=du=hok=ciak
 金額絲雀	kim=ngrak=si=ciak
 金額雀鶥	kim=ngrak=ciak=mii
+金髮碧眼	kim=pyat=piek=ngrenx
 釜底抽薪	byox=tex=thriu=sin
 釜底游魚	byox=tex=ju=ngio
 釣魚執法	teuh=ngio=cjip=pyap
@@ -69056,6 +69190,7 @@ sort: by_weight
 雌性接口	chie=siengh=ciep=khux
 雌雄同體	chie=iung=dung=thex
 雌雄異色	chie=iung=jih=srik
+雕楹碧檻	teu=jeng=piek=ghramx
 雙人包夾	srung=njin=prau=krep
 雙層巴士	srung=zong=pra=zrix
 雙曲拱橋	srung=khyuk=kyungx=gieu
@@ -69299,6 +69434,7 @@ sort: by_weight
 鬥私批修	tuh=sii=phe=siu
 鬱鬱寡歡	qyot=qyot=kruax=huan
 鬼斧神工	kyoix=pyox=zsjin=kung
+鬼由心生	kyoix=ju=sim=srang
 鬼計多端	kyoix=keh=ta=tuan
 鬼話連篇	kyoix=ghruad=lien=phjen
 鬼迷心竅	kyoix=me=sim=kheuh
@@ -69558,6 +69694,7 @@ sort: by_weight
 口技表演者	khux=giex=pieux=jenx=cjax
 古傑拉特邦	kox=giet=lop=dok=prung
 古吉拉特邦	kox=kjit=lop=dok=prung
+古生物學家	kox=srang=myot=ghruk=kra
 可持續發展	khax=dri=zsyuk=pyat=trienx
 史前古器物	srix=zen=kox=khiih=myot
 司馬遼太郎	si=mrax=leu=thad=lang
@@ -69641,6 +69778,7 @@ sort: by_weight
 字根通用碼	zih=kon=thung=jyungh=mrax
 存款准備金	zuon=khuanx=cjynx=biih=kim
 學而優則仕	ghruk=nji=qiu=cok=zrix
+宇宙生成論	yox=driuh=srang=zjeng=luonh
 安納波利斯	qan=nop=pua=liih=sie
 宋武帝劉裕	suungh=myox=teh=liu=jyoh
 完形心理學	ghuan=gheng=sim=lix=ghruk
@@ -69698,6 +69836,7 @@ sort: by_weight
 彭博通訊社	brang=pak=thung=sinh=zjax
 徐霞客遊記	zsio=ghra=khrak=ju=kih
 得克薩斯州	tok=khok=sat=sie=cju
+微生物學家	myoi=srang=myot=ghruk=kra
 德克薩斯州	tok=khok=sat=sie=cju
 德古西加巴	tok=kox=se=kra=pra
 德謨克拉西	tok=mo=khok=lop=se
@@ -69739,6 +69878,7 @@ sort: by_weight
 新西伯利亞	sin=se=prak=liih=qrah
 日本共同社	njit=puonx=gyungh=dung=zjax
 日本松雀鷹	njit=puonx=zsyung=ciak=qing
+早死早超生	caux=siix=caux=thrieu=srang
 春江花月夜	chjyn=krung=hrua=ngyat=jah
 普羅維登斯	phox=la=jyi=tong=sie
 普通老百姓	phox=thung=laux=prak=siengh
@@ -70102,6 +70242,8 @@ sort: by_weight
 黑額山噪鶥	hok=ngrak=sren=sauh=mii
 點對點加密	temx=tuaih=temx=kra=mit
 一個中國政策	qjit=kah=triung=kuok=cjengh=chrek
+一回生二回熟	qjit=ghuai=srang=njiih=ghuai=zjuk
+一回生兩回熟	qjit=ghuai=srang=liangx=ghuai=zjuk
 一掬同情之淚	qjit=kiuk=dung=zieng=cji=lyih
 一條道走到黑	qjit=deu=daux=cux=tauh=hok
 一步一個腳印	qjit=boh=qjit=kah=kiak=qjinh
