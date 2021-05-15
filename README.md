@@ -9,7 +9,7 @@ Original version: [rime-middle-chinese](https://github.com/biopolyhedron/rime-mi
 ```sh
 npm install
 mkdir -p cache
-wget -nc -P cache https://raw.githubusercontent.com/hhliow/cedict_middle_chinese/1a046d7/words_certain.tsv
+wget -nc -P cache https://raw.githubusercontent.com/hhliow/cedict_middle_chinese/develop/words_certain.tsv
 node build/generate_map.js
 python build/build1.py
 python build/uniqsort.py

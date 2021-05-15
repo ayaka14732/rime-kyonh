@@ -35,6 +35,7 @@ use_preset_vocabulary: true
 一塊	qjit khuaih
 一壁	qjit pek
 一夕	qjit zsiek
+一如	qjit njo
 一字	qjit zih
 一定	qjit dengh
 一家	qjit kra
@@ -68,6 +69,8 @@ use_preset_vocabulary: true
 一眼	qjit ngrenx
 一睹	qjit tox
 一瞬	qjit sjynh
+一種	qjit cjyungx
+一空	qjit khung
 一等	qjit tongx
 一級	qjit kip
 一統	qjit thuungh
@@ -80,6 +83,7 @@ use_preset_vocabulary: true
 一號	qjit ghauh
 一覽	qjit lamx
 一言	qjit ngian
+一說	qjit sjyet
 一起	qjit khix
 一路	qjit loh
 一身	qjit sjin
@@ -95,6 +99,10 @@ use_preset_vocabulary: true
 一體	qjit thex
 一點	qjit temx
 一黨	qjit tangx
+一齊	qjit ze
+丁卯	teng mraux
+丁酉	teng jux
+丁香	teng hiang
 七十	chit zjip
 七喜	chit hix
 七堵	chit tox
@@ -110,14 +118,21 @@ use_preset_vocabulary: true
 七美	chit miix
 七聲	chit sjeng
 七股	chit kox
+七魄	chit phrak
 丈人	driangx njin
+丈夫	driangx pyo
 丈母	driangx mux
+三五	sam ngox
 三代	sam daih
 三光	sam kuang
+三兩	sam liangx
 三十	sam zjip
 三國	sam kuok
 三峽	sam ghrep
 三弦	sam ghen
+三教	sam krauh
+三春	sam chjyn
+三更	sam krang
 三次	sam chiih
 三流	sam liu
 三級	sam kip
@@ -127,31 +142,49 @@ use_preset_vocabulary: true
 三項	sam ghrungx
 三鮮	sam sien
 上代	zjangh daih
+上位	zjangx yih
 上來	zjangx lai
 上個	zjangh kah
 上前	zjangx zen
 上半	zjangh puanh
 上去	zjangx khioh
 上古	zjangh kox
+上司	zjangh si
 上周	zjangh cju
 上回	zjangh ghuai
 上坡	zjangx phua
+上場	zjangx driang
+上墳	zjangx byon
+上好	zjangh haux
+上學	zjangx ghruk
+上家	zjangh kra
+上將	zjangh ciangh
 上層	zjangh zong
 上山	zjangx sren
 上岸	zjangx nganh
+上市	zjangx zjix
 上年	zjangh nen
+上床	zjangx zriang
+上座	zjangh zuah
+上房	zjangh byang
 上文	zjangh myon
+上月	zjangh ngyat
 上樓	zjangx lu
+上次	zjangh chiih
 上流	zjangh liu
+上游	zjangh ju
 上班	zjangx pran
 上界	zjangh kraih
 上皮	zjangh bie
 上瞼	zjangh kiemx
 上空	zjangh khung
+上第	zjangh deh
 上等	zjangh tongx
 上級	zjangh kip
 上線	zjangx sienh
+上船	zjangx zsjyen
 上色	zjangh srik
+上衣	zjangh qioi
 上衫	zjangh sram
 上裝	zjangh criang
 上課	zjangx khuah
@@ -160,6 +193,7 @@ use_preset_vocabulary: true
 上輩	zjangh puaih
 上邊	zjangh pen
 上鉤	zjangx ku
+上門	zjangx muon
 上陣	zjangx drinh
 上面	zjangh mjenh
 上頭	zjangh du
@@ -172,6 +206,13 @@ use_preset_vocabulary: true
 下層	ghrax zong
 下屬	ghrax zjyuk
 下巴	ghrax pra
+下方	ghrax pyang
+下旬	ghrax zsyn
+下賤	ghrax zienh
+下身	ghrax sjin
+下邊	ghrax pen
+下面	ghrax mjenh
+下體	ghrax thex
 丐幫	kad pang
 丑時	thriux zji
 丑牛	thriux ngiu
@@ -317,7 +358,7 @@ use_preset_vocabulary: true
 主持	cjyox dri
 主掌	cjyox cjangx
 主播	cjyox puah
-主教	cjyox krau
+主教	cjyox krauh
 主族	cjyox zuk
 主日	cjyox njit
 主旨	cjyox cjiix
@@ -1118,7 +1159,7 @@ use_preset_vocabulary: true
 佛岡	byot kang
 佛心	byot sim
 佛性	byot siengh
-佛教	byot krau
+佛教	byot krauh
 佛書	byot sjo
 佛法	byot pyap
 佛牙	byot ngra
@@ -1333,7 +1374,7 @@ use_preset_vocabulary: true
 信息	sinh sik
 信意	sinh qih
 信手	sinh sjux
-信教	sinh krau
+信教	sinh krauh
 信服	sinh biuk
 信札	sinh cret
 信條	sinh deu
@@ -1608,6 +1649,7 @@ use_preset_vocabulary: true
 傲立	ngauh lip
 傲自	ngauh ziih
 傲骨	ngauh kuot
+傳教	dryen krauh
 傾佩	khjyeng buaih
 傾側	khjyeng crik
 傾動	khjyeng dungx
@@ -1685,7 +1727,7 @@ use_preset_vocabulary: true
 儒士	njyo zrix
 儒學	njyo ghruk
 儒家	njyo kra
-儒教	njyo krau
+儒教	njyo krauh
 儒者	njyo cjax
 儒艮	njyo konh
 儒雅	njyo ngrax
@@ -1876,7 +1918,7 @@ use_preset_vocabulary: true
 入微	njip myoi
 入息	njip sik
 入手	njip sjux
-入教	njip krau
+入教	njip krauh
 入時	njip zji
 入會	njip ghuad
 入月	njip ngyat
@@ -2807,7 +2849,6 @@ use_preset_vocabulary: true
 助力	zrioh lik
 助威	zrioh qyoi
 助手	zrioh sjux
-助教	zrioh krau
 助理	zrioh lix
 助益	zrioh qjek
 助詞	zrioh zsi
@@ -2861,7 +2902,6 @@ use_preset_vocabulary: true
 勒緊	lok kjinx
 勒逼	lok pik
 勒馬	lok mrax
-勒龐	lok brung
 動亂	dungx luanh
 動人	dungx njin
 動力	dungx lik
@@ -2936,7 +2976,6 @@ use_preset_vocabulary: true
 勸導	khyanh dauh
 勸慰	khyanh qyoih
 勸戒	khyanh kraih
-勸教	khyanh krau
 勸服	khyanh biuk
 勸架	khyanh krah
 勸誘	khyanh jux
@@ -3459,7 +3498,6 @@ use_preset_vocabulary: true
 受持	zjux dri
 受挫	zjux cuah
 受損	zjux suonx
-受教	zjux krau
 受暑	zjux sjox
 受業	zjux ngiap
 受權	zjux gyen
@@ -3493,7 +3531,6 @@ use_preset_vocabulary: true
 叛匪	buanh pyoix
 叛國	buanh kuok
 叛徒	buanh do
-叛教	buanh krau
 叛變	buanh pienh
 叛賊	buanh zok
 叛賣	buanh mreh
@@ -4468,7 +4505,7 @@ use_preset_vocabulary: true
 回拜	ghuai praih
 回採	ghuai chaix
 回擊	ghuai kek
-回教	ghuai krau
+回教	ghuai krauh
 回敬	ghuai kiengh
 回文	ghuai myon
 回族	ghuai zuk
@@ -4586,7 +4623,7 @@ use_preset_vocabulary: true
 國手	kuok sjux
 國技	kuok giex
 國政	kuok cjengh
-國教	kuok krau
+國教	kuok krauh
 國族	kuok zuk
 國旗	kuok gi
 國書	kuok sjo
@@ -4684,6 +4721,7 @@ use_preset_vocabulary: true
 團購	duan kuh
 團隊	duan duaih
 團體	duan thex
+在教	zaix krauh
 地上	diih zjangh
 地主	diih cjyox
 地位	diih yih
@@ -4875,7 +4913,6 @@ use_preset_vocabulary: true
 執拾	cjip zjip
 執掌	cjip cjangx
 執政	cjip cjengh
-執教	cjip krau
 執業	cjip ngiap
 執法	cjip pyap
 執照	cjip cjeuh
@@ -5243,7 +5280,6 @@ use_preset_vocabulary: true
 外手	nguad sjux
 外掛	nguad krueh
 外插	nguad chrep
-外教	nguad krau
 外敷	nguad phyo
 外文	nguad myon
 外星	nguad seng
@@ -5925,7 +5961,7 @@ use_preset_vocabulary: true
 孔廟	khungx mieuh
 孔徑	khungx kengh
 孔德	khungx tok
-孔教	khungx krau
+孔教	khungx krauh
 孔明	khungx mieng
 孔東	khungx tung
 孔林	khungx lim
@@ -6209,7 +6245,7 @@ use_preset_vocabulary: true
 宗室	cuung sjit
 宗師	cuung srii
 宗廟	cuung mieuh
-宗教	cuung krau
+宗教	cuung krauh
 宗族	cuung zuk
 宗旨	cuung cjiix
 宗派	cuung phreh
@@ -6295,7 +6331,7 @@ use_preset_vocabulary: true
 宣恩	syen qon
 宣戰	syen cjenh
 宣揚	syen jang
-宣教	syen krau
+宣教	syen krauh
 宣洩	syen jed
 宣漢	syen hanh
 宣紙	syen cjex
@@ -6373,7 +6409,6 @@ use_preset_vocabulary: true
 家庭	kra deng
 家慈	kra zi
 家政	kra cjengh
-家教	kra krau
 家族	kra zuk
 家景	kra kiengx
 家業	kra ngiap
@@ -6450,7 +6485,7 @@ use_preset_vocabulary: true
 密排	mit brai
 密探	mit thom
 密接	mit ciep
-密教	mit krau
+密教	mit krauh
 密文	mit myon
 密斯	mit sie
 密林	mit lim
@@ -7601,7 +7636,6 @@ use_preset_vocabulary: true
 幫廚	pang dryo
 幫忙	pang mang
 幫手	pang sjux
-幫教	pang krau
 幫派	pang phreh
 幫浦	pang phox
 幫腔	pang khrung
@@ -7687,7 +7721,6 @@ use_preset_vocabulary: true
 幼妹	qyh muaih
 幼小	qyh sieux
 幼年	qyh nen
-幼教	qyh krau
 幼時	qyh zji
 幼獸	qyh sjuh
 幼稚	qyh driih
@@ -9255,7 +9288,6 @@ use_preset_vocabulary: true
 成才	zjeng zai
 成批	zjeng phe
 成效	zjeng ghrauh
-成教	zjeng krau
 成文	zjeng myon
 成日	zjeng njit
 成書	zjeng sjo
@@ -9897,7 +9929,6 @@ use_preset_vocabulary: true
 指尖	cjiix ciem
 指授	cjiix zjuh
 指揮	cjiix hyoi
-指教	cjiix krau
 指明	cjiix mieng
 指板	cjiix pranx
 指模	cjiix mo
@@ -10536,7 +10567,6 @@ use_preset_vocabulary: true
 支承	cje zjing
 支招	cje cjeu
 支持	cje dri
-支教	cje krau
 支族	cje zuk
 支書	cje sjo
 支架	cje krah
@@ -10595,7 +10625,6 @@ use_preset_vocabulary: true
 政府	cjengh pyox
 政情	cjengh zieng
 政改	cjengh kaix
-政教	cjengh krau
 政敵	cjengh dek
 政柄	cjengh piengh
 政權	cjengh gyen
@@ -10677,48 +10706,10 @@ use_preset_vocabulary: true
 敘言	zsiox ngian
 敘談	zsiox dam
 敘述	zsiox zsjyt
-教主	krau cjyox
-教儀	krau ngie
-教具	krau gyoh
-教務	krau myoh
-教化	krau hruah
-教友	krau iux
-教員	krau yon
-教唆	krau sua
-教堂	krau dang
-教士	krau zrix
-教子	krau cix
-教學	krau ghruk
-教安	krau qan
-教宗	krau cuung
-教官	krau kuan
-教室	krau sjit
-教導	krau dauh
-教師	krau srii
-教徒	krau do
-教授	krau zjuh
-教書	krau sjo
-教本	krau puonx
-教材	krau zai
-教案	krau qanh
-教條	krau deu
-教權	krau gyen
-教母	krau mux
-教民	krau mjin
-教法	krau pyap
-教派	krau phreh
-教理	krau lix
-教皇	krau ghuang
-教程	krau drieng
-教練	krau lenh
-教義	krau ngieh
-教育	krau juk
-教規	krau kjye
-教訓	krau hyonh
-教誨	krau huaih
-教鞭	krau pjen
-教頭	krau du
-教齡	krau leng
+教主	krauh cjyox
+教區	krauh khyo
+教友	krauh iux
+教堂	krauh dang
 敞亮	chjangx liangh
 敞口	chjangx khux
 敞開	chjangx khai
@@ -10814,7 +10805,6 @@ use_preset_vocabulary: true
 文康	myon khang
 文憑	myon bing
 文成	myon zjeng
-文教	myon krau
 文旦	myon tanh
 文昌	myon chjang
 文明	myon mieng
@@ -10932,7 +10922,6 @@ use_preset_vocabulary: true
 新手	sin sjux
 新拉	sin lop
 新政	sin cjengh
-新教	sin krau
 新昌	sin chjang
 新星	sin seng
 新春	sin chjyn
@@ -11180,7 +11169,6 @@ use_preset_vocabulary: true
 明志	mieng cjih
 明慧	mieng ghueh
 明手	mieng sjux
-明教	mieng krau
 明文	mieng myon
 明日	mieng njit
 明早	mieng caux
@@ -11407,7 +11395,6 @@ use_preset_vocabulary: true
 普陀	phox da
 景寧	kiengx neng
 景山	kiengx sren
-景教	kiengx krau
 景東	kiengx tung
 景況	kiengx hyangh
 景泰	kiengx thad
@@ -13165,7 +13152,6 @@ use_preset_vocabulary: true
 殃及	qiang gip
 殉國	zsynh kuok
 殉情	zsynh zieng
-殉教	zsynh krau
 殉死	zsynh siix
 殉節	zsynh cet
 殉職	zsynh cjik
@@ -13501,7 +13487,6 @@ use_preset_vocabulary: true
 求情	giu zieng
 求愛	giu qaih
 求救	giu kiuh
-求教	giu krau
 求是	giu zjex
 求歡	giu huan
 求知	giu trie
@@ -16446,7 +16431,6 @@ use_preset_vocabulary: true
 異心	jih sim
 異性	jih siengh
 異才	jih zai
-異教	jih krau
 異文	jih myon
 異族	jih zuk
 異構	jih kuh
@@ -17558,7 +17542,6 @@ use_preset_vocabulary: true
 社團	zjax duan
 社學	zjax ghruk
 社工	zjax kung
-社教	zjax krau
 社旗	zjax gi
 社火	zjax huax
 社科	zjax khua
@@ -17567,7 +17550,6 @@ use_preset_vocabulary: true
 社頭	zjax du
 祀物	zsix myot
 祀神	zsix zsjin
-祆教	hen krau
 祆道	hen daux
 祈求	gioi giu
 祈福	gioi piuk
@@ -17696,7 +17678,6 @@ use_preset_vocabulary: true
 禮堂	lex dang
 禮帽	lex mauh
 禮拜	lex praih
-禮教	lex krau
 禮服	lex biuk
 禮泉	lex zyen
 禮法	lex pyap
@@ -18292,7 +18273,6 @@ use_preset_vocabulary: true
 管座	kuanx zuah
 管待	kuanx daix
 管情	kuanx zieng
-管教	kuanx krau
 管束	kuanx sjyuk
 管燈	kuanx tong
 管理	kuanx lix
@@ -19973,7 +19953,6 @@ use_preset_vocabulary: true
 胎動	thai dungx
 胎壓	thai qrap
 胎座	thai zuah
-胎教	thai krau
 胎盤	thai buan
 胎糞	thai pyonh
 胎記	thai kih
@@ -20386,7 +20365,6 @@ use_preset_vocabulary: true
 舊態	giuh thaih
 舊損	giuh suonx
 舊故	giuh koh
-舊教	giuh krau
 舊日	giuh njit
 舊時	giuh zji
 舊曆	giuh lek
@@ -21790,7 +21768,6 @@ use_preset_vocabulary: true
 襄陽	siang jang
 襏襫	puat sjek
 襖子	qaux cix
-襖教	qaux krau
 襟兄	kim hyeng
 襟懷	kim ghruai
 襟抱	kim baux
@@ -21936,7 +21913,6 @@ use_preset_vocabulary: true
 觸鬚	chjyuk syo
 言喻	ngian jyoh
 言官	ngian kuan
-言教	ngian krau
 言明	ngian mieng
 言詞	ngian zsi
 言談	ngian dam
@@ -21969,7 +21945,6 @@ use_preset_vocabulary: true
 討底	thaux tex
 討拍	thaux phrak
 討擾	thaux njeux
-討教	thaux krau
 討海	thaux haix
 討究	thaux kiuh
 討米	thaux mex
@@ -23272,7 +23247,6 @@ use_preset_vocabulary: true
 身手	sjin sjux
 身才	sjin zai
 身故	sjin koh
-身教	sjin krau
 身材	sjin zai
 身板	sjin pranx
 身段	sjin duanh
@@ -24040,7 +24014,6 @@ use_preset_vocabulary: true
 道家	daux kra
 道德	daux tok
 道指	daux cjiix
-道教	daux krau
 道牙	daux ngra
 道理	daux lix
 道瓊	daux gjyeng
@@ -24523,7 +24496,6 @@ use_preset_vocabulary: true
 釋念	sjek nemh
 釋懷	sjek ghruai
 釋手	sjek sjux
-釋教	sjek krau
 釋文	sjek myon
 釋然	sjek njen
 釋疑	sjek ngi
@@ -25564,7 +25536,6 @@ use_preset_vocabulary: true
 雅愛	ngrax qaih
 雅懷	ngrax ghruai
 雅故	ngrax koh
-雅教	ngrax krau
 雅歌	ngrax ka
 雅江	ngrax krung
 雅法	ngrax pyap
@@ -25865,7 +25836,6 @@ use_preset_vocabulary: true
 電感	denh komx
 電抗	denh khangh
 電擊	denh kek
-電教	denh krau
 電木	denh muk
 電杆	denh kanh
 電梯	denh the
@@ -26134,7 +26104,6 @@ use_preset_vocabulary: true
 面頰	mjenh kep
 面額	mjenh ngrak
 面顏	mjenh ngran
-面龐	mjenh brung
 靦腆	thenx thenx
 革吉	krek kjit
 革命	krek miengh
@@ -26390,7 +26359,6 @@ use_preset_vocabulary: true
 領帶	liengx tad
 領悟	liengx ngoh
 領情	liengx zieng
-領教	liengx krau
 領有	liengx iux
 領海	liengx haix
 領獎	liengx ciangx
@@ -27438,7 +27406,6 @@ use_preset_vocabulary: true
 黃巾	ghuang kin
 黃帝	ghuang teh
 黃忠	ghuang triung
-黃教	ghuang krau
 黃斑	ghuang pran
 黃昏	ghuang huon
 黃書	ghuang sjo
@@ -27701,7 +27668,6 @@ use_preset_vocabulary: true
 鼻骨	bjiih kuot
 齋堂	crai dang
 齋戒	crai kraih
-齋教	crai krau
 齋月	crai ngyat
 齋期	crai gi
 齋果	crai kuax
@@ -27769,11 +27735,7 @@ use_preset_vocabulary: true
 龍駒	lyung kyo
 龍骨	lyung kuot
 龍鳳	lyung biungh
-龐克	brung khok
 龐德	brung tok
-龐涓	brung kuen
-龐貝	brung pad
-龐雜	brung zop
 龕影	khom qiengx
 一丁點	qjit teng temx
 一下兒	qjit ghrax nje
@@ -27793,6 +27755,7 @@ use_preset_vocabulary: true
 一團火	qjit duan huax
 一團糟	qjit duan cau
 一場空	qjit driang khung
+一塊兒	qjit khuaih nje
 一壁廂	qjit pek siang
 一夜情	qjit jah zieng
 一字兒	qjit zih nje
@@ -27824,7 +27787,7 @@ use_preset_vocabulary: true
 一百一	qjit prak qjit
 一眨眼	qjit crep ngrenx
 一瞬間	qjit sjynh krenh
-一神教	qjit zsjin krau
+一神教	qjit zsjin krauh
 一神論	qjit zsjin luonh
 一等獎	qjit tongx ciangx
 一節詩	qjit cet sji
@@ -27865,6 +27828,7 @@ use_preset_vocabulary: true
 三八節	sam pret cet
 三八線	sam pret sienh
 三味線	sam myoih sienh
+三夷教	sam jii krauh
 三節鞭	sam cet pjen
 三腳架	sam kiak krah
 三角凳	sam kruk tongh
@@ -28259,7 +28223,7 @@ use_preset_vocabulary: true
 佔領者	tem liengx cjax
 佛山市	byot sren zjix
 佛手瓜	byot sjux krua
-佛教徒	byot krau do
+佛教徒	byot krauh do
 佛朗哥	byot langx ka
 佛朗機	byot langx kioi
 佛舍利	byot sjax liih
@@ -28393,6 +28357,8 @@ use_preset_vocabulary: true
 催眠曲	chuai men khyuk
 催眠藥	chuai men jak
 催眠術	chuai men zsjyt
+傳教團	dryen krauh duan
+傳教士	dryen krauh zrix
 傾向性	khjyeng hiangh siengh
 僅次于	ginh chiih yo
 僧帽猴	song mauh ghu
@@ -29462,7 +29428,7 @@ use_preset_vocabulary: true
 基爾特	ki njex dok
 基督城	ki tuuk zjeng
 基督徒	ki tuuk do
-基督教	ki tuuk krau
+基督教	ki tuuk krauh
 基西紐	ki se nriux
 基諧波	ki ghrai pua
 基諾族	ki nak zuk
@@ -29575,7 +29541,7 @@ use_preset_vocabulary: true
 多用途	ta jyungh do
 多發病	ta pyat biengh
 多目的	ta miuk tek
-多神教	ta zsjin krau
+多神教	ta zsjin krauh
 多神論	ta zsjin luonh
 多米諾	ta mex nak
 多粒子	ta lip cix
@@ -29597,7 +29563,7 @@ use_preset_vocabulary: true
 夜開花	jah khai hrua
 夜闌珊	jah lan san
 夜香木	jah hiang muk
-天主教	then cjyox krau
+天主教	then cjyox krauh
 天兔座	then thoh zuah
 天前配	then zen phuaih
 天剛亮	then kang liangh
@@ -29615,7 +29581,7 @@ use_preset_vocabulary: true
 天演論	then jenx luonh
 天爐座	then lo zuah
 天狼星	then lang seng
-天理教	then lix krau
+天理教	then lix krauh
 天琴座	then gim zuah
 天秤座	then chjingh zuah
 天箭座	then cienh zuah
@@ -29837,7 +29803,6 @@ use_preset_vocabulary: true
 宋干節	suungh kan cet
 宋徽宗	suungh hyoi cuung
 宋慶齡	suungh khiengh leng
-宋教仁	suungh krau njin
 宋武帝	suungh myox teh
 宋祖英	suungh cox qieng
 宋美齡	suungh miix leng
@@ -29849,9 +29814,9 @@ use_preset_vocabulary: true
 宗主國	cuung cjyox kuok
 宗主權	cuung cjyox gyen
 宗喀巴	cuung khrak pra
-宗教團	cuung krau duan
-宗教學	cuung krau ghruk
-宗教徒	cuung krau do
+宗教團	cuung krauh duan
+宗教學	cuung krauh ghruk
+宗教徒	cuung krauh do
 宗聖侯	cuung sjengh ghu
 宗聖公	cuung sjengh kung
 官二代	kuan njiih daih
@@ -30169,7 +30134,7 @@ use_preset_vocabulary: true
 巨石陣	giox zjek drinh
 巨蟹座	giox ghrex zuah
 巨齒鯊	giox chjix sra
-巫毒教	myo duuk krau
+巫毒教	myo duuk krauh
 巴克斯	pra khok sie
 巴別塔	pra biet thap
 巴利文	pra liih myon
@@ -30483,7 +30448,6 @@ use_preset_vocabulary: true
 性快感	siengh khruad komx
 性成熟	siengh zjeng zjuk
 性接觸	siengh ciep chjyuk
-性教育	siengh krau juk
 性服務	siengh biuk myoh
 性熟存	siengh zjuk zuon
 性物戀	siengh myot lyenh
@@ -30774,8 +30738,8 @@ use_preset_vocabulary: true
 招股書	cjeu kox sjo
 拜天地	praih then diih
 拜把子	praih prax cix
-拜火教	praih huax krau
-拜物教	praih myot krau
+拜火教	praih huax krauh
+拜物教	praih myot krauh
 拳擊手	gyen kek sjux
 拳擊臺	gyen kek dai
 拼到底	preng tauh tex
@@ -30954,22 +30918,8 @@ use_preset_vocabulary: true
 敘利亞	zsiox liih qrah
 敘拉古	zsiox lop kox
 敘述性	zsiox zsjyt siengh
-教務室	krau myoh sjit
-教友派	krau iux phreh
-教堂山	krau dang sren
-教學樓	krau ghruk lu
-教學法	krau ghruk pyap
-教師節	krau srii cet
-教書匠	krau sjo ziangh
-教研室	krau ngenh sjit
-教練員	krau lenh yon
-教練機	krau lenh kioi
-教職員	krau cjik yon
-教職工	krau cjik kung
-教育學	krau juk ghruk
-教育家	krau juk kra
-教育性	krau juk siengh
-教育界	krau juk kraih
+教友派	krauh iux phreh
+教堂山	krauh dang sren
 敞開兒	chjangx khai nje
 敢死隊	kamx siix duaih
 敬老席	kiengh laux zsiek
@@ -31065,7 +31015,6 @@ use_preset_vocabulary: true
 新店溪	sin temh khe
 新德里	sin tok lix
 新技術	sin giex zsjyt
-新教徒	sin krau do
 新時代	sin zji daih
 新民市	sin mjin zjix
 新沂市	sin ngioi zjix
@@ -31944,7 +31893,6 @@ use_preset_vocabulary: true
 波帶片	pua tad phenh
 波德申	pua tok sjin
 波斑鴇	pua pran paux
-波斯教	pua sie krau
 波斯灣	pua sie qruan
 波江座	pua krung zuah
 波波頭	pua pua du
@@ -32118,7 +32066,6 @@ use_preset_vocabulary: true
 清太祖	chieng thad cox
 清州市	chieng cju zjix
 清政府	chieng cjengh pyox
-清教徒	chieng krau do
 清明節	chieng mieng cet
 清水寺	chieng sjyix zsih
 清水河	chieng sjyix gha
@@ -32705,7 +32652,6 @@ use_preset_vocabulary: true
 異地戀	jih diih lyenh
 異形詞	jih gheng zsi
 異性戀	jih siengh lyenh
-異教徒	jih krau do
 異構體	jih kuh thex
 異特龍	jih dok lyung
 異端者	jih tuan cjax
@@ -33684,7 +33630,6 @@ use_preset_vocabulary: true
 耶利米	ja liih mex
 耶弗他	ja pyot tha
 耶烈萬	ja liet myanh
-耶穌教	ja so krau
 耶誕節	ja danx cet
 聊城市	leu zjeng zjix
 聊天兒	leu then nje
@@ -34116,7 +34061,6 @@ use_preset_vocabulary: true
 薩拉米	sat lop mex
 薩摩麟	sat mua lin
 薩斯病	sat sie biengh
-薩滿教	sat muanx krau
 薩爾圖	sat njex do
 薩爾州	sat njex cju
 薩米人	sat mex njin
@@ -34671,7 +34615,6 @@ use_preset_vocabulary: true
 軋道機	qret daux kioi
 軋馬路	qret mrax loh
 軌跡球	kyix ciek giu
-軍公教	kyon kung krau
 軍功章	kyon kung cjang
 軍團菌	kyon duan gynx
 軍政府	kyon cjengh pyox
@@ -34817,7 +34760,6 @@ use_preset_vocabulary: true
 運貨員	yonh huah yon
 道具服	daux gyoh biuk
 道德家	daux tok kra
-道教徒	daux krau do
 道爾頓	daux njex tuonh
 道瓊斯	daux gjyeng sie
 違章者	yoi cjang cjax
@@ -34874,7 +34816,6 @@ use_preset_vocabulary: true
 都市病	to zjix biengh
 都拉斯	to lop sie
 都柏林	to prak lim
-都龐嶺	to brung liengx
 鄂倫春	ngak lyn chjyn
 鄂州市	ngak cju zjix
 鄉人子	hiang njin cix
@@ -35038,7 +34979,6 @@ use_preset_vocabulary: true
 錐齒輪	cjyi chjix lyn
 錦州市	kimx cju zjix
 錫伯族	sek prak zuk
-錫克教	sek khok krau
 錫安山	sek qan sren
 錫爾河	sek njex gha
 錫箔紙	sek bak cjex
@@ -35442,7 +35382,6 @@ use_preset_vocabulary: true
 非利士	pyoi liih zrix
 非同步	pyoi dung boh
 非吸煙	pyoi hip qen
-非宗教	pyoi cuung krau
 非寫實	pyoi siax zsjit
 非導體	pyoi dauh thex
 非層巖	pyoi zong ngram
@@ -36089,6 +36028,7 @@ use_preset_vocabulary: true
 一線微光	qjit sienh myoi kuang
 一股腦兒	qjit kox naux nje
 一舉一動	qjit kiox qjit dungx
+一舉兩得	qjit kiox liangx tok
 一舉成功	qjit kiox zjeng kung
 一落千丈	qjit lak chen driangx
 一葉知秋	qjit jep trie chiu
@@ -36103,7 +36043,9 @@ use_preset_vocabulary: true
 一言一動	qjit ngian qjit dungx
 一言九鼎	qjit ngian kiux tengx
 一言千金	qjit ngian chen kim
+一言為定	qjit ngian ye dengh
 一諾千金	qjit nak chen kim
+一貧如洗	qjit bin njo sex
 一路風塵	qjit loh piung drin
 一蹴而就	qjit ciuk nji ziuh
 一蹴而得	qjit ciuk nji tok
@@ -36139,6 +36081,7 @@ use_preset_vocabulary: true
 七言律詩	chit ngian lyt sji
 七零八碎	chit leng pret suaih
 七零八落	chit leng pret lak
+三三兩兩	sam sam liangx liangx
 三人成虎	sam njin zjeng hox
 三代同堂	sam daih dung dang
 三個代表	sam kah daih pieux
@@ -36147,6 +36090,8 @@ use_preset_vocabulary: true
 三天兩頭	sam then liangx du
 三峽水庫	sam ghrep sjyix khoh
 三心二意	sam sim njiih qih
+三教九流	sam krauh kiux liu
+三朋四友	sam bong siih iux
 三權鼎立	sam gyen tengx lip
 三次方程	sam chiih pyang drieng
 三次曲線	sam chiih khyuk sienh
@@ -36175,7 +36120,7 @@ use_preset_vocabulary: true
 主幹網絡	cjyox kanh myangx lak
 主幹網路	cjyox kanh myangx loh
 主承銷商	cjyox zjing sieu sjang
-主教座堂	cjyox krau zuah dang
+主教座堂	cjyox krauh zuah dang
 主旨演講	cjyox cjiix jenx krungx
 主權國家	cjyox gyen kuok kra
 主管人員	cjyox kuanx njin yon
@@ -36329,7 +36274,7 @@ use_preset_vocabulary: true
 人贓俱獲	njin cang kyo ghruek
 人身安全	njin sjin qan zyen
 人道主義	njin daux cjyox ngieh
-人間佛教	njin krenh byot krau
+人間佛教	njin krenh byot krauh
 人間喜劇	njin krenh hix giek
 人間地獄	njin krenh diih ngyuk
 人間天堂	njin krenh then dang
@@ -36401,7 +36346,7 @@ use_preset_vocabulary: true
 伊斯坦堡	qjii sie thanx paux
 伊斯蘭國	qjii sie lan kuok
 伊斯蘭堡	qjii sie lan paux
-伊斯蘭教	qjii sie lan krau
+伊斯蘭教	qjii sie lan krauh
 伊普西隆	qjii phox se liung
 伊犁盆地	qjii le buon diih
 伊藤博文	qjii dong pak myon
@@ -37192,10 +37137,9 @@ use_preset_vocabulary: true
 基本完成	ki puonx ghuan zjeng
 基本粒子	ki puonx lip cix
 基桑加尼	ki sang kra nrii
-基督教徒	ki tuuk krau do
-基督教派	ki tuuk krau phreh
-基督新教	ki tuuk sin krau
-基礎教育	ki chriox krau juk
+基督教徒	ki tuuk krauh do
+基督教派	ki tuuk krauh phreh
+基督新教	ki tuuk sin krauh
 基礎結構	ki chriox ket kuh
 基輔羅斯	ki byox la sie
 基里巴斯	ki lix pra sie
@@ -37269,7 +37213,8 @@ use_preset_vocabulary: true
 夜深人靜	jah sjim njin ziengx
 夜闌人靜	jah lan njin ziengx
 夤緣攀附	jin jyen phran byoh
-天主教徒	then cjyox krau do
+天主教徒	then cjyox krauh do
+天主教會	then cjyox krauh ghuad
 天公地道	then kung diih daux
 天南地北	then nom diih pok
 天南海北	then nom haix pok
@@ -37353,7 +37298,7 @@ use_preset_vocabulary: true
 威逼利誘	qyoi pik liih jux
 威風凜凜	qyoi piung limx limx
 婆婆媽媽	bua bua mox mox
-婆羅門教	bua la muon krau
+婆羅門教	bua la muon krauh
 婦人之仁	biux njin cji njin
 婦姑勃谿	biux ko buot khe
 婦孺皆知	biux njyoh krai trie
@@ -37389,7 +37334,6 @@ use_preset_vocabulary: true
 孫臏兵法	suon bjinx pieng pyap
 學以致用	ghruk jix triih jyungh
 學位證書	ghruk yih cjingh sjo
-學前教育	ghruk zen krau juk
 學士學位	ghruk zrix ghruk yih
 學業有成	ghruk ngiap iux zjeng
 學無止境	ghruk myo cjix kiengx
@@ -37430,15 +37374,14 @@ use_preset_vocabulary: true
 完美無瑕	ghuan miix myo ghra
 宏碁集團	ghrueng gi zip duan
 宏都拉斯	ghrueng to lop sie
-宗教儀式	cuung krau ngie sjik
-宗教改革	cuung krau kaix krek
-宗教法庭	cuung krau pyap deng
+宗教儀式	cuung krauh ngie sjik
+宗教改革	cuung krauh kaix krek
+宗教法庭	cuung krauh pyap deng
 宗派主義	cuung phreh cjyox ngieh
 官報私仇	kuan pauh sii giu
 官宦人家	kuan ghruanh njin kra
 官廳水庫	kuan theng sjyix khoh
 官渡之戰	kuan doh cji cjenh
-客座教授	khrak zuah krau zjuh
 宣誓就職	syen zjed ziuh cjik
 宣誓證言	syen zjed cjingh ngian
 室邇人遐	sjit njex njin ghra
@@ -37448,7 +37391,6 @@ use_preset_vocabulary: true
 家庭主婦	kra deng cjyox biux
 家庭地址	kra deng diih cjix
 家庭成員	kra deng zjeng yon
-家庭教師	kra deng krau srii
 家徒四壁	kra do siih pek
 家用電器	kra jyungh denh khiih
 家用電腦	kra jyungh denh naux
@@ -37479,7 +37421,6 @@ use_preset_vocabulary: true
 實受資本	zsjit zjux cii puonx
 實報實銷	zsjit pauh zsjit sieu
 實心皮球	zsjit sim bie giu
-實物教學	zsjit myot krau ghruk
 實用主義	zsjit jyungh cjyox ngieh
 實用價值	zsjit jyungh krah drih
 實至名歸	zsjit cjiih mjeng kyoi
@@ -37502,7 +37443,6 @@ use_preset_vocabulary: true
 專案小組	cjyen qanh sieux cox
 專業人士	cjyen ngiap njin zrix
 專業人才	cjyen ngiap njin zai
-專業教育	cjyen ngiap krau juk
 專用網路	cjyen jyungh myangx loh
 專門人員	cjyen muon njin yon
 專門機構	cjyen muon kioi kuh
@@ -38046,7 +37986,6 @@ use_preset_vocabulary: true
 拼音階段	preng qim krai duanh
 拾人牙慧	zjip njin ngra ghueh
 持續時間	dri zsyuk zji krenh
-指導教授	cjiix dauh krau zjuh
 指指點點	cjiix cjiix temx temx
 指日可待	cjiix njit khax daix
 指鹿為馬	cjiix luk ye mrax
@@ -38131,17 +38070,14 @@ use_preset_vocabulary: true
 改頭換面	kaix du ghuanh mjenh
 政府官員	cjengh pyox kuan yon
 政府機關	cjengh pyox kioi kruan
+政教合一	cjengh krauh ghop qjit
 效忠誓詞	ghrauh triung zjed zsi
 救命稻草	kiuh miengh daux chaux
 救死扶傷	kiuh siix byo sjang
 救焚益薪	kiuh byon qjek sin
 救護人員	kiuh ghoh njin yon
 敘利亞文	zsiox liih qrah myon
-教堂墓地	krau dang moh diih
-教學機構	krau ghruk kioi kuh
-教宗座駕	krau cuung zuah krah
-教條主義	krau deu cjyox ngieh
-教職員工	krau cjik yon kung
+教堂墓地	krauh dang moh diih
 敝帚千金	bjed cjux chen kim
 敝帚自珍	bjed cjux ziih trin
 敬老尊賢	kiengh laux cuon ghen
@@ -38285,7 +38221,6 @@ use_preset_vocabulary: true
 普蘭店市	phox lan temh zjix
 普通名詞	phox thung mjeng zsi
 普通夜鷹	phox thung jah qing
-普通教育	phox thung krau juk
 普通朱雀	phox thung cjyo ciak
 普通翠鳥	phox thung chyih teux
 普通赤楊	phox thung chjek jang
@@ -38352,7 +38287,6 @@ use_preset_vocabulary: true
 有意無意	iux qih myo qih
 有手有腳	iux sjux iux kiak
 有損壓縮	iux suonx qrap sriuk
-有教無類	iux krau myo lyih
 有期徒刑	iux gi do gheng
 有板有眼	iux pranx iux ngrenx
 有核國家	iux ghrek kuok kra
@@ -38499,7 +38433,6 @@ use_preset_vocabulary: true
 棘皮動物	kik bie dungx myot
 楔形文字	set gheng myon zih
 業務模式	ngiap myoh mo sjik
-業餘教育	ngiap jo krau juk
 極北柳鶯	gik pok liux qreng
 極權主義	gik gyen cjyox ngieh
 極端主義	gik tuan cjyox ngieh
@@ -38508,7 +38441,6 @@ use_preset_vocabulary: true
 極限運動	gik ghrenx yonh dungx
 榮宗耀祖	yeng cuung jeuh cox
 榮歸故里	yeng kyoi koh lix
-樞機主教	chjyo kioi cjyox krau
 模糊邏輯	mo gho lah zip
 模里西斯	mo lix se sie
 機器人學	kioi khiih njin ghruk
@@ -38989,7 +38921,6 @@ use_preset_vocabulary: true
 特別護理	dok biet ghoh lix
 特技演員	dok giex jenx yon
 特技跳傘	dok giex deu sanx
-特殊教育	dok zjyo krau juk
 特殊護理	dok zjyo ghoh lix
 特殊關係	dok zjyo kruan keh
 特羅多斯	dok la ta sie
@@ -39353,7 +39284,6 @@ use_preset_vocabulary: true
 福澤諭吉	piuk drak jyoh kjit
 福無雙至	piuk myo srung cjiih
 禮拜儀式	lex praih ngie sjik
-禮教吃人	lex krau kiot njin
 禮義廉恥	lex ngieh liem thrix
 秀色可餐	siuh srik khax chan
 秀色孫鰈	siuh srik suon thap
@@ -39635,7 +39565,6 @@ use_preset_vocabulary: true
 羅威納犬	la qyoi nop khuenx
 羅納爾多	la nop njex ta
 羅縷紀存	la lyox kix zuon
-羅馬公教	la mrax kung krau
 羅馬字母	la mrax zih mux
 羅馬尼亞	la mrax nrii qrah
 羅馬帝國	la mrax teh kuok
@@ -39663,7 +39592,6 @@ use_preset_vocabulary: true
 美洲兀鷹	miix cju nguot qing
 美聲唱法	miix sjeng chjangh pyap
 美輪美奐	miix lyn miix huanh
-義務教育	ngieh myoh krau juk
 義結金蘭	ngieh ket kim lan
 義薄雲天	ngieh bak yon then
 羹藜含糗	krang le ghom khiux
@@ -39718,7 +39646,6 @@ use_preset_vocabulary: true
 聖安德魯	sjengh qan tok lox
 聖彼得堡	sjengh piex tok paux
 聖德太子	sjengh tok thad cix
-聖母教堂	sjengh mux krau dang
 聖盧西亞	sjengh lo se qrah
 聖誕前夕	sjengh danx zen zsiek
 聖誕老人	sjengh danx laux njin
@@ -39730,7 +39657,6 @@ use_preset_vocabulary: true
 聲色場所	sjeng srik driang sriox
 聲類系統	sjeng lyih gheh thuungh
 聶姆曹娃	nriep muh zau qre
-職業教育	cjik ngiap krau juk
 肄業證書	jiih ngiap cjingh sjo
 肅然起敬	siuk njen khix kiengh
 肆意妄為	siih qih myangh ye
@@ -40315,7 +40241,6 @@ use_preset_vocabulary: true
 通信服務	thung sinh biuk myoh
 通信網絡	thung sinh myangx lak
 通商口岸	thung sjang khux nganh
-通才教育	thung zai krau juk
 通用拼音	thung jyungh preng qim
 通用電器	thung jyungh denh khiih
 通訊協定	thung sinh ghep dengh
@@ -40573,7 +40498,6 @@ use_preset_vocabulary: true
 陽奉陰違	jang byungx qim yoi
 陽春白雪	jang chjyn brak syet
 隆乳手術	liung njyox sjux zsjyt
-階梯教室	krai the krau sjit
 階梯計價	krai the keh krah
 階級鬥爭	krai kip tuh creng
 隔壁有耳	krek pek iux njix
@@ -40642,7 +40566,6 @@ use_preset_vocabulary: true
 雷電計圖	luai denh keh do
 電信網路	denh sinh myangx loh
 電動玩具	denh dungx nguanh gyoh
-電化教育	denh hruah krau juk
 電報通知	denh pauh thung trie
 電子信箱	denh cix sinh siang
 電子商務	denh cix sjang myoh
@@ -41297,7 +41220,6 @@ use_preset_vocabulary: true
 智慧型手機	trieh ghueh gheng sjux kioi
 暗綠繡眼鳥	qomh lyuk siuh ngrenx teux
 最惠國待遇	cuad ghueh kuok daix ngyoh
-有教無類法	iux krau myo lyih pyap
 有條有理地	iux deu iux lix diih
 本初子午線	puonx chrio cix ngox sienh
 杯酒釋兵權	puai ciux sjek pieng gyen
@@ -41768,7 +41690,6 @@ use_preset_vocabulary: true
 烏滋別克斯坦	qo ci biet khok sie thanx
 特古西加爾巴	dok kox se kra njex pra
 特拉法加廣場	dok lop pyap kra kuangx driang
-瑣羅亞斯德教	suax la qrah sie tok krau
 甲基安非他命	krap ki qan pyoi tha miengh
 登機手續櫃檯	tong kioi sjux zsyuk gyih dai
 皇太極清太宗	ghuang thad gik chieng thad cuung
@@ -41855,7 +41776,7 @@ use_preset_vocabulary: true
 國際戰爭罪法庭	kuok cied cjenh creng zuaix pyap deng
 坎貝爾侏儒倉鼠	khomx pad njex cjyo njyo chang sjox
 太陽微系統公司	thad jang myoi gheh thuungh kung si
-威斯敏斯特教堂	qyoi sie minx sie dok krau dang
+威斯敏斯特教堂	qyoi sie minx sie dok krauh dang
 媒體接口連接器	muai thex ciep khux lien ciep khiih
 小葵花鳳頭鸚鵡	sieux gjyi hrua biungh du qreng myox
 布拉戈維申斯克	poh lop kua jyi sjin sie khok
