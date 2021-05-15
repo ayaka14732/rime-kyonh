@@ -1,15 +1,10 @@
-# rime-middle-chinese
+# rime-kyonh
 
-Ayaka’s fork of the [rime-middle-chinese](https://github.com/biopolyhedron/rime-middle-chinese) input schema
+Ayaka’s fork of the rime input schema for Koxyonh’s Romanization of Middle Chinese (古韻羅馬字)
 
-## Project Structure
-
-- `build`: Build script
-- `kyonh.*`: 使用古韻羅馬字的中古拼音方案（根據原古韻羅馬字方案修改而成）
+Original version: [rime-middle-chinese](https://github.com/biopolyhedron/rime-middle-chinese)
 
 ## Build
-
-### Build `kyonh`
 
 ```sh
 npm install
