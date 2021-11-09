@@ -1,28 +1,21 @@
-import fs from 'fs';
-import Qieyun from 'qieyun';
-import { baxter, kyonh } from 'qieyun-examples';
+import fs from "fs";
+import Qieyun from "qieyun";
+import { baxter, kyonh } from "qieyun-examples";
 
-const kyonh_map = [];
-const baxter_map = [];
+const kyonhMap = [];
+const baxterMap = [];
 
-function *生成音韻地位() {
+function* 生成音韻地位() {
   yield* Qieyun.iter音韻地位();
-  yield* [
-    '生開二庚平',
-    '幫三庚入',
-    '見開三B仙入',
-  ].map((描述) => Qieyun.音韻地位.from描述(描述))
+  yield* ["生開二庚平", "幫三庚入", "見開三B仙入"].map((描述) =>
+    Qieyun.音韻地位.from描述(描述)
+  );
 }
 
 for (const 音韻地位 of 生成音韻地位()) {
-  const { 描述 } = 音韻地位;
-
-  const kyonh_ = kyonh(音韻地位);
-  const baxter_ = baxter(音韻地位);
-
-  kyonh_map.push(描述 + '\t' + kyonh_);
-  baxter_map.push(描述 + '\t' + baxter_);
+  kyonhMap.push(音韻地位.描述 + "\t" + kyonh(音韻地位));
+  baxterMap.push(音韻地位.描述 + "\t" + baxter(音韻地位));
 }
 
-fs.writeFileSync('cache/kyonh.txt', kyonh_map.join('\n') + '\n');
-fs.writeFileSync('cache/baxter.txt', baxter_map.join('\n') + '\n');
+fs.writeFileSync("cache/kyonh.txt", kyonhMap.join("\n") + "\n");
+fs.writeFileSync("cache/baxter.txt", baxterMap.join("\n") + "\n");

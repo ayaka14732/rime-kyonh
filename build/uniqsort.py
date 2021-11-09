@@ -1,5 +1,6 @@
 from glob import glob
 
+
 def do(file_path):
     headers = []
     chars = set()
@@ -19,8 +20,10 @@ def do(file_path):
             ch, py, *extra = line.split('\t')
             (chars if len(ch) == 1 else words).add((ch, py, tuple(extra)))
 
-    chars = sorted(chars, key=lambda xyz: (len(xyz[0]), xyz[0], xyz[1], xyz[2]))
-    words = sorted(words, key=lambda xyz: (len(xyz[0]), xyz[0], xyz[1], xyz[2]))
+    chars = sorted(chars, key=lambda xyz: (
+        len(xyz[0]), xyz[0], xyz[1], xyz[2]))
+    words = sorted(words, key=lambda xyz: (
+        len(xyz[0]), xyz[0], xyz[1], xyz[2]))
 
     with open(file_path, 'w') as f:
         for line in headers:
@@ -34,6 +37,7 @@ def do(file_path):
 
         for ch, py, extra in words:
             print(ch, py, *extra, sep='\t', file=f)
+
 
 for file_path in glob('kyonh*.dict.yaml'):
     do(file_path)
