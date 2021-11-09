@@ -35400,6 +35400,7 @@ sort: by_weight
 對蝦	tuaih=ghra
 對衝	tuaih=chjyung
 對襟	tuaih=kim
+對襯	tuaih=chrinh
 對詞	tuaih=zsi
 對話	tuaih=ghruad
 對談	tuaih=dam
@@ -36188,6 +36189,7 @@ sort: by_weight
 幫派	pang=phreh
 幫浦	pang=phox
 幫腔	pang=khrung
+幫襯	pang=chrinh
 幫辦	pang=brenh
 幫閑	pang=ghren
 干休	kan=hiu
@@ -39802,6 +39804,7 @@ sort: by_weight
 映入	qiengh=njip
 映演	qiengh=jenx
 映照	qiengh=cjeuh
+映襯	qiengh=chrinh
 春凳	chjyn=tongh
 春化	chjyn=hruah
 春困	chjyn=khuonh
@@ -50371,6 +50374,9 @@ sort: by_weight
 襤褸	lam=lyox
 襪子	myat=cix
 襪帶	myat=tad
+襯墊	chrinh=temh
+襯線	chrinh=sienh
+襯衫	chrinh=sram
 襲擊	zsip=kek
 西乃	se=naix
 西亞	se=qrah
@@ -53907,6 +53913,7 @@ sort: by_weight
 陪罪	buai=zuaix
 陪聊	buai=leu
 陪葬	buai=cangh
+陪襯	buai=chrinh
 陪護	buai=ghoh
 陪讀	buai=duk
 陪送	buai=sungh

@@ -1,6 +1,6 @@
 import fs from 'fs';
 import Qieyun from 'qieyun';
-import QieyunExamples from 'qieyun-examples-node';
+import { baxter, kyonh } from 'qieyun-examples';
 
 const kyonh_map = [];
 const baxter_map = [];
@@ -17,11 +17,11 @@ function *生成音韻地位() {
 for (const 音韻地位 of 生成音韻地位()) {
   const { 描述 } = 音韻地位;
 
-  const kyonh = QieyunExamples.kyonh(音韻地位);
-  const baxter = QieyunExamples.baxter(音韻地位);
+  const kyonh_ = kyonh(音韻地位);
+  const baxter_ = baxter(音韻地位);
 
-  kyonh_map.push(描述 + '\t' + kyonh);
-  baxter_map.push(描述 + '\t' + baxter);
+  kyonh_map.push(描述 + '\t' + kyonh_);
+  baxter_map.push(描述 + '\t' + baxter_);
 }
 
 fs.writeFileSync('cache/kyonh.txt', kyonh_map.join('\n') + '\n');
