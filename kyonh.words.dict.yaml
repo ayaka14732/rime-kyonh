@@ -3,7 +3,7 @@
 
 ---
 name: kyonh.words
-version: "2021.11.09"
+version: "2021.11.09-rev20220316-3"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -64,7 +64,7 @@ use_preset_vocabulary: true
 一次	qjit chiih
 一氣	qjit khioih
 一流	qjit liu
-一生	qjit srang
+一生	qjit srieng
 一甲	qjit krap
 一直	qjit drik
 一眼	qjit ngrenx
@@ -575,7 +575,7 @@ use_preset_vocabulary: true
 互換	ghoh ghuanh
 互文	ghoh myon
 互斥	ghoh chjek
-互生	ghoh srang
+互生	ghoh srieng
 互異	ghoh jih
 互粉	ghoh pyonx
 互素	ghoh soh
@@ -808,7 +808,7 @@ use_preset_vocabulary: true
 人物	njin myot
 人犯	njin byamx
 人猿	njin yan
-人生	njin srang
+人生	njin srieng
 人禍	njin ghuax
 人精	njin cieng
 人緣	njin jyen
@@ -867,7 +867,7 @@ use_preset_vocabulary: true
 今村	kim chuon
 今次	kim chiih
 今歲	kim syed
-今生	kim srang
+今生	kim srieng
 今譯	kim jek
 今音	kim qim
 介乎	kraih gho
@@ -1210,7 +1210,7 @@ use_preset_vocabulary: true
 來潮	lai drieu
 來火	lai huax
 來犯	lai byamx
-來生	lai srang
+來生	lai srieng
 來由	lai ju
 來神	lai zsjin
 來義	lai ngieh
@@ -1637,7 +1637,7 @@ use_preset_vocabulary: true
 催情	chuai zieng
 催淚	chuai lyih
 催熟	chuai zjuk
-催生	chuai srang
+催生	chuai srieng
 催眠	chuai men
 催肥	chuai byoi
 催膘	chuai phjeux
@@ -1747,7 +1747,7 @@ use_preset_vocabulary: true
 優柔	qiu nju
 優步	qiu boh
 優渥	qiu qruk
-優生	qiu srang
+優生	qiu srieng
 優異	qiu jih
 優盤	qiu buan
 優秀	qiu siuh
@@ -2160,7 +2160,7 @@ use_preset_vocabulary: true
 共同	gyungh dung
 共商	gyungh sjang
 共存	gyungh zuon
-共生	gyungh srang
+共生	gyungh srieng
 共用	gyungh jyungh
 共管	gyungh kuanx
 共謀	gyungh miu
@@ -2226,7 +2226,7 @@ use_preset_vocabulary: true
 再版	caih pranx
 再犯	caih byamx
 再現	caih ghenh
-再生	caih srang
+再生	caih srieng
 再發	caih pyat
 再者	caih cjax
 再育	caih juk
@@ -2479,7 +2479,7 @@ use_preset_vocabulary: true
 初步	chrio boh
 初潮	chrio drieu
 初犯	chrio byamx
-初生	chrio srang
+初生	chrio srieng
 初秋	chrio chiu
 初等	chrio tongx
 初級	chrio kip
@@ -5299,7 +5299,7 @@ use_preset_vocabulary: true
 外海	nguad haix
 外源	nguad ngyan
 外牆	nguad ziang
-外甥	nguad srang
+外甥	nguad srieng
 外用	nguad jyungh
 外界	nguad kraih
 外皮	nguad bie
@@ -5487,7 +5487,7 @@ use_preset_vocabulary: true
 天理	then lix
 天璇	then zsyen
 天璣	then kioi
-天生	then srang
+天生	then srieng
 天界	then kraih
 天癸	then kjyix
 天皇	then ghuang
@@ -6199,7 +6199,7 @@ use_preset_vocabulary: true
 安然	qan njen
 安營	qan jyeng
 安瓶	qan beng
-安生	qan srang
+安生	qan srieng
 安眠	qan men
 安神	qan zsjin
 安祥	qan zsiang
@@ -6480,7 +6480,7 @@ use_preset_vocabulary: true
 寄存	kieh zuon
 寄懷	kieh ghruai
 寄母	kieh mux
-寄生	kieh srang
+寄生	kieh srieng
 寄發	kieh pyat
 寄籍	kieh ziek
 寄託	kieh thak
@@ -6682,7 +6682,7 @@ use_preset_vocabulary: true
 寫手	siax sjux
 寫法	siax pyap
 寫照	siax cjeuh
-寫生	siax srang
+寫生	siax srieng
 寬亮	khuan liangh
 寬免	khuan mienx
 寬口	khuan khux
@@ -7114,7 +7114,7 @@ use_preset_vocabulary: true
 尾流	myoix liu
 尾燈	myoix tong
 尾牙	myoix ngra
-尾生	myoix srang
+尾生	myoix srieng
 尾礦	myoix kruangx
 尾翼	myoix jik
 尾聲	myoix sjeng
@@ -7570,7 +7570,7 @@ use_preset_vocabulary: true
 師尊	srii cuon
 師徒	srii do
 師母	srii mux
-師生	srii srang
+師生	srii srieng
 師範	srii byamx
 師表	srii pieux
 師資	srii cii
@@ -8249,7 +8249,7 @@ use_preset_vocabulary: true
 往昔	yangx siek
 往時	yangx zji
 往歲	yangx syed
-往生	yangx srang
+往生	yangx srieng
 往程	yangx drieng
 往跡	yangx ciek
 往返	yangx pyanx
@@ -9436,7 +9436,7 @@ use_preset_vocabulary: true
 所指	sriox cjiix
 所有	sriox iux
 所為	sriox ye
-所生	sriox srang
+所生	sriox srieng
 所知	sriox trie
 所致	sriox triih
 所謂	sriox yoih
@@ -10029,7 +10029,7 @@ use_preset_vocabulary: true
 捐款	jyen khuanx
 捐物	jyen myot
 捐班	jyen pran
-捐生	jyen srang
+捐生	jyen srieng
 捐稅	jyen sjyed
 捐給	jyen kip
 捐血	jyen huet
@@ -10130,7 +10130,7 @@ use_preset_vocabulary: true
 排演	brai jenx
 排版	brai pranx
 排球	brai giu
-排笙	brai srang
+排笙	brai srieng
 排簫	brai seu
 排練	brai lenh
 排翅	brai sjeh
@@ -10722,7 +10722,7 @@ use_preset_vocabulary: true
 救星	kiuh seng
 救火	kiuh huax
 救災	kiuh cai
-救生	kiuh srang
+救生	kiuh srieng
 救護	kiuh ghoh
 救贖	kiuh zsjyuk
 敖廣	ngau kuangx
@@ -10977,7 +10977,7 @@ use_preset_vocabulary: true
 新潮	sin drieu
 新營	sin jyeng
 新版	sin pranx
-新生	sin srang
+新生	sin srieng
 新田	sin den
 新界	sin kraih
 新異	sin jih
@@ -11388,7 +11388,7 @@ use_preset_vocabulary: true
 晚景	myanx kiengx
 晚期	myanx gi
 晚清	myanx chieng
-晚生	myanx srang
+晚生	myanx srieng
 晚育	myanx juk
 晚輩	myanx puaih
 晚間	myanx krenh
@@ -11611,7 +11611,7 @@ use_preset_vocabulary: true
 書櫃	sjo gyih
 書法	sjo pyap
 書牘	sjo duk
-書生	sjo srang
+書生	sjo srieng
 書皮	sjo bie
 書目	sjo miuk
 書眉	sjo mii
@@ -13164,7 +13164,7 @@ use_preset_vocabulary: true
 死水	siix sjyix
 死海	siix haix
 死球	siix giu
-死生	siix srang
+死生	siix srieng
 死硬	siix ngrengh
 死神	siix zsjin
 死穴	siix ghuet
@@ -13243,7 +13243,7 @@ use_preset_vocabulary: true
 殺敵	sret dek
 殺死	sret siix
 殺滅	sret mjet
-殺生	sret srang
+殺生	sret srieng
 殺絕	sret zyet
 殺菌	sret gynx
 殺頭	sret du
@@ -13352,7 +13352,7 @@ use_preset_vocabulary: true
 民歌	mjin ka
 民法	mjin pyap
 民營	mjin jyeng
-民生	mjin srang
+民生	mjin srieng
 民用	mjin jyungh
 民科	mjin khua
 民航	mjin ghang
@@ -13428,7 +13428,7 @@ use_preset_vocabulary: true
 水玉	sjyix ngyuk
 水珠	sjyix cjyo
 水球	sjyix giu
-水生	sjyix srang
+水生	sjyix srieng
 水田	sjyix den
 水療	sjyix lieuh
 水盂	sjyix yo
@@ -13527,7 +13527,7 @@ use_preset_vocabulary: true
 求救	giu kiuh
 求是	giu zjex
 求歡	giu huan
-求生	giu srang
+求生	giu srieng
 求知	giu trie
 求職	giu cjik
 求證	giu cjingh
@@ -13968,7 +13968,7 @@ use_preset_vocabulary: true
 派勢	phreh sjed
 派對	phreh tuaih
 派性	phreh siengh
-派生	phreh srang
+派生	phreh srieng
 派系	phreh gheh
 派購	phreh kuh
 派送	phreh sungh
@@ -14646,7 +14646,7 @@ use_preset_vocabulary: true
 滋味	ci myoih
 滋擾	ci njeux
 滋潤	ci njynh
-滋生	ci srang
+滋生	ci srieng
 滋芽	ci ngra
 滋補	ci pox
 滋賀	ci ghah
@@ -15473,7 +15473,7 @@ use_preset_vocabulary: true
 營救	jyeng kiuh
 營業	jyeng ngiap
 營求	jyeng giu
-營生	jyeng srang
+營生	jyeng srieng
 營盤	jyeng buan
 營私	jyeng sii
 營謀	jyeng miu
@@ -15684,9 +15684,9 @@ use_preset_vocabulary: true
 物資	myot cii
 物鏡	myot kiengh
 物體	myot thex
-牲口	srang khux
-牲禮	srang lex
-牲體	srang thex
+牲口	srieng khux
+牲禮	srieng lex
+牲體	srieng thex
 牴觸	tex chjyuk
 牸牛	zih ngiu
 牸馬	zih mrax
@@ -15746,7 +15746,7 @@ use_preset_vocabulary: true
 犎牛	pyung ngiu
 犒賞	khauh sjangx
 犢子	duk cix
-犧牲	hie srang
+犧牲	hie srieng
 犪牛	gyi ngiu
 犬儒	khuenx njyo
 犬戎	khuenx njung
@@ -15855,8 +15855,8 @@ use_preset_vocabulary: true
 猢猻	gho suon
 猥瑣	quaix suax
 猥褻	quaix siet
-猩猩	srang srang
-猩紅	srang ghung
+猩猩	srieng srieng
+猩紅	srieng ghung
 猳國	kra kuok
 猴兒	ghu nje
 猴子	ghu cix
@@ -15901,7 +15901,7 @@ use_preset_vocabulary: true
 獨步	duk boh
 獨特	duk dok
 獨獨	duk duk
-獨生	duk srang
+獨生	duk srieng
 獨白	duk brak
 獨秀	duk siuh
 獨立	duk lip
@@ -16414,7 +16414,7 @@ use_preset_vocabulary: true
 男星	nom seng
 男根	nom kon
 男爵	nom ciak
-男生	nom srang
+男生	nom srieng
 男的	nom tek
 男神	nom zsjin
 男童	nom dung
@@ -16447,7 +16447,7 @@ use_preset_vocabulary: true
 畢摩	pjit mua
 畢昇	pjit sjing
 畢業	pjit ngiap
-畢生	pjit srang
+畢生	pjit srieng
 畢竟	pjit kiengh
 畢節	pjit cet
 畢肖	pjit sieuh
@@ -16743,7 +16743,7 @@ use_preset_vocabulary: true
 發獎	pyat ciangx
 發現	pyat ghenh
 發球	pyat giu
-發生	pyat srang
+發生	pyat srieng
 發病	pyat biengh
 發痛	pyat thungh
 發癢	pyat jangx
@@ -18194,7 +18194,7 @@ use_preset_vocabulary: true
 竹林	triuk lim
 竹溪	triuk khe
 竹田	triuk den
-竹笙	triuk srang
+竹笙	triuk srieng
 竹筍	triuk synx
 竹管	triuk kuanx
 竹節	triuk cet
@@ -18208,10 +18208,10 @@ use_preset_vocabulary: true
 竿子	kan cix
 竿頭	kan du
 笄年	ke nen
-笙歌	srang ka
-笙管	srang kuanx
-笙簧	srang ghuang
-笙簫	srang seu
+笙歌	srieng ka
+笙管	srieng kuanx
+笙簧	srieng ghuang
+笙簫	srieng seu
 笛子	dek cix
 笞刑	thri gheng
 笞撻	thri that
@@ -18888,7 +18888,7 @@ use_preset_vocabulary: true
 終期	cjung gi
 終極	cjung gik
 終止	cjung cjix
-終生	cjung srang
+終生	cjung srieng
 終究	cjung kiuh
 終端	cjung tuan
 終結	cjung ket
@@ -19668,7 +19668,7 @@ use_preset_vocabulary: true
 老歌	laux ka
 老漢	laux hanh
 老爸	laux buax
-老生	laux srang
+老生	laux srieng
 老粗	laux zox
 老練	laux lenh
 老繭	laux kenx
@@ -19716,7 +19716,7 @@ use_preset_vocabulary: true
 考期	khaux gi
 考本	khaux puonx
 考核	khaux ghrek
-考生	khaux srang
+考生	khaux srieng
 考研	khaux ngenh
 考究	khaux kiuh
 考績	khaux cek
@@ -20020,7 +20020,7 @@ use_preset_vocabulary: true
 胎動	thai dungx
 胎壓	thai qrap
 胎座	thai zuah
-胎生	thai srang
+胎生	thai srieng
 胎盤	thai buan
 胎糞	thai pyonh
 胎記	thai kih
@@ -20043,7 +20043,7 @@ use_preset_vocabulary: true
 胡狼	gho lang
 胡琴	gho gim
 胡瓜	gho krua
-胡笙	gho srang
+胡笙	gho srieng
 胡臭	gho chjuh
 胡芫	gho ngyan
 胡花	gho hrua
@@ -20080,7 +20080,7 @@ use_preset_vocabulary: true
 脹起	triangh khix
 脾胃	bje yoih
 腋毛	jek mau
-腋生	jek srang
+腋生	jek srieng
 腋臭	jek chjuh
 腋芽	jek ngra
 腎炎	zjinx iem
@@ -20676,7 +20676,7 @@ use_preset_vocabulary: true
 花環	hrua ghruan
 花瓣	hrua brenh
 花瓶	hrua beng
-花生	hrua srang
+花生	hrua srieng
 花用	hrua jyungh
 花甲	hrua krap
 花痴	hrua thri
@@ -20970,7 +20970,7 @@ use_preset_vocabulary: true
 萇楚	driang chrioh
 萋萋	che che
 萌動	mreng dungx
-萌生	mreng srang
+萌生	mreng srieng
 萌發	mreng pyat
 萌芽	mreng ngra
 萍鄉	beng hiang
@@ -22341,7 +22341,7 @@ use_preset_vocabulary: true
 謀智	miu trieh
 謀殺	miu sret
 謀求	miu giu
-謀生	miu srang
+謀生	miu srieng
 謀略	miu liak
 謀職	miu cjik
 謀臣	miu zjin
@@ -22748,7 +22748,7 @@ use_preset_vocabulary: true
 貢山	kungh sren
 貢布	kungh poh
 貢物	kungh myot
-貢生	kungh srang
+貢生	kungh srieng
 貢茶	kungh dra
 貢賦	kungh pyoh
 貧乏	bin byap
@@ -23121,7 +23121,7 @@ use_preset_vocabulary: true
 超時	thrieu zji
 超模	thrieu mo
 超渡	thrieu doh
-超生	thrieu srang
+超生	thrieu srieng
 超界	thrieu kraih
 超等	thrieu tongx
 超級	thrieu kip
@@ -23731,7 +23731,7 @@ use_preset_vocabulary: true
 逃漏	dau luh
 逃犯	dau byamx
 逃獄	dau ngyuk
-逃生	dau srang
+逃生	dau srieng
 逃稅	dau sjyed
 逃竄	dau chuanh
 逃荒	dau huang
@@ -24993,7 +24993,7 @@ use_preset_vocabulary: true
 門牙	muon ngra
 門球	muon giu
 門環	muon ghruan
-門生	muon srang
+門生	muon srieng
 門神	muon zsjin
 門童	muon dung
 門第	muon deh
@@ -25349,7 +25349,7 @@ use_preset_vocabulary: true
 陋屋	luh quk
 陋習	luh zsip
 陋規	luh kjye
-陌生	mrak srang
+陌生	mrak srieng
 陌路	mrak loh
 陌陌	mrak mrak
 限價	ghrenx krah
@@ -25723,7 +25723,7 @@ use_preset_vocabulary: true
 雙溪	srung khe
 雙灤	srung luan
 雙獨	srung duk
-雙生	srung srang
+雙生	srung srieng
 雙盲	srung mrang
 雙眸	srung miu
 雙眼	srung ngrenx
@@ -27852,7 +27852,7 @@ use_preset_vocabulary: true
 一年半	qjit nen puanh
 一年多	qjit nen ta
 一年期	qjit nen gi
-一年生	qjit nen srang
+一年生	qjit nen srieng
 一把手	qjit prax sjux
 一撥兒	qjit puat nje
 一攬子	qjit lamx cix
@@ -27972,7 +27972,7 @@ use_preset_vocabulary: true
 中國通	triung kuok thung
 中國鈸	triung kuok buat
 中壓管	triung qrap kuanx
-中學生	triung ghruk srang
+中學生	triung ghruk srieng
 中山裝	triung sren criang
 中微子	triung myoi cix
 中心矩	triung sim kyox
@@ -28066,7 +28066,7 @@ use_preset_vocabulary: true
 二地主	njiih diih cjyox
 二婚頭	njiih huon du
 二尖瓣	njiih ciem brenh
-二年生	njiih nen srang
+二年生	njiih nen srieng
 二手房	njiih sjux byang
 二手煙	njiih sjux qen
 二手貨	njiih sjux huah
@@ -28441,7 +28441,7 @@ use_preset_vocabulary: true
 傑里科	giet lix khua
 傑里米	giet lix mex
 備用環	biih jyungh ghruan
-催生婆	chuai srang bua
+催生婆	chuai srieng bua
 催眠曲	chuai men khyuk
 催眠藥	chuai men jak
 催眠術	chuai men zsjyt
@@ -28629,7 +28629,7 @@ use_preset_vocabulary: true
 再保證	caih paux cjingh
 再保險	caih paux hiemx
 再利用	caih liih jyungh
-再發生	caih pyat srang
+再發生	caih pyat srieng
 再融資	caih jung cii
 再製紙	caih cjed cjex
 冕柳鶯	mienx liux qreng
@@ -28650,7 +28650,7 @@ use_preset_vocabulary: true
 冰球場	ping giu driang
 冰醋酸	ping choh suan
 冶金學	jax kim ghruk
-准生證	cjynx srang cjingh
+准生證	cjynx srieng cjingh
 准考證	cjynx khaux cjingh
 凌志美	ling cjih miix
 凌波舞	ling pua myox
@@ -28680,7 +28680,7 @@ use_preset_vocabulary: true
 刊誤表	khan ngoh pieux
 刑訴法	gheng soh pyap
 划得來	ghrua tok lai
-初中生	chrio triung srang
+初中生	chrio triung srieng
 初始化	chrio sjix hruah
 初學者	chrio ghruk cjax
 判例法	phuanh lied pyap
@@ -29068,7 +29068,7 @@ use_preset_vocabulary: true
 古文明	kox myon mieng
 古新統	kox sin thuungh
 古玩店	kox nguanh temh
-古生物	kox srang myot
+古生物	kox srieng myot
 古登堡	kox tong paux
 古盜鳥	kox dauh teux
 古縴道	kox khen daux
@@ -29082,7 +29082,7 @@ use_preset_vocabulary: true
 叫花子	keuh hrua cix
 召集人	drieuh zip njin
 可倫坡	khax lyn phua
-可再生	khax caih srang
+可再生	khax caih srieng
 可勁兒	khax kjengh nje
 可可米	khax khax mex
 可塑性	khax soh siengh
@@ -29620,7 +29620,7 @@ use_preset_vocabulary: true
 多巴胺	ta pra qat
 多幕劇	ta mak giek
 多年來	ta nen lai
-多年生	ta nen srang
+多年生	ta nen srieng
 多得是	ta tok zjex
 多方位	ta pyang yih
 多方面	ta pyang mjenh
@@ -29929,7 +29929,7 @@ use_preset_vocabulary: true
 宣威市	syen qyoi zjix
 宣武門	syen myox muon
 宣誓書	syen zjed sjo
-宰牲節	caix srang cet
+宰牲節	caix srieng cet
 害月子	ghad ngyat cix
 家八哥	kra pret ka
 家家酒	kra kra ciux
@@ -29944,8 +29944,8 @@ use_preset_vocabulary: true
 寄件者	kieh gienx cjax
 寄存器	kieh zuon khiih
 寄物櫃	kieh myot gyih
-寄生物	kieh srang myot
-寄生者	kieh srang cjax
+寄生物	kieh srieng myot
+寄生者	kieh srieng cjax
 密山市	mit sren zjix
 密歇根	mit hiat kon
 密特朗	mit dok langx
@@ -29973,7 +29973,7 @@ use_preset_vocabulary: true
 實幹家	zsjit kanh kra
 實業家	zsjit ngiap kra
 實況主	zsjit hyangh cjyox
-實習生	zsjit zsip srang
+實習生	zsjit zsip srieng
 實際性	zsjit cied siengh
 實驗室	zsjit ngiemh sjit
 實驗所	zsjit ngiemh sriox
@@ -30058,7 +30058,7 @@ use_preset_vocabulary: true
 小娃娃	sieux qre qre
 小孩兒	sieux ghai nje
 小孩子	sieux ghai cix
-小學生	sieux ghruk srang
+小學生	sieux ghruk srieng
 小家鼠	sieux kra sjox
 小屁孩	sieux phjiih ghai
 小年人	sieux nen njin
@@ -30136,7 +30136,7 @@ use_preset_vocabulary: true
 小黃瓜	sieux ghuang krua
 小龍蝦	sieux lyung ghra
 尖吻鱸	ciem myonx lo
-尖子生	ciem cix srang
+尖子生	ciem cix srieng
 尖石鄉	ciem zjek hiang
 尖管麵	ciem kuanx menh
 尖草坪	ciem chaux bieng
@@ -30477,7 +30477,7 @@ use_preset_vocabulary: true
 微晶片	myoi cieng phenh
 微機化	myoi kioi hruah
 微波爐	myoi pua lo
-微生物	myoi srang myot
+微生物	myoi srieng myot
 微粒體	myoi lip thex
 微血管	myoi huet kuanx
 微電子	myoi denh cix
@@ -31012,7 +31012,7 @@ use_preset_vocabulary: true
 敏感性	minx komx siengh
 救撈局	kiuh lau gyuk
 救災款	kiuh cai khuanx
-救生筏	kiuh srang byat
+救生筏	kiuh srieng byat
 救贖主	kiuh zsjyuk cjyox
 敖德薩	ngau tok sat
 敖漢旗	ngau hanh gi
@@ -31123,7 +31123,7 @@ use_preset_vocabulary: true
 新泰市	sin thad zjix
 新澤西	sin drak se
 新營市	sin jyeng zjix
-新生代	sin srang daih
+新生代	sin srieng daih
 新石器	sin zjek khiih
 新社鄉	sin zjax hiang
 新竹市	sin triuk zjix
@@ -31388,7 +31388,7 @@ use_preset_vocabulary: true
 本拉登	puonx lop tong
 本星期	puonx seng gi
 本溪市	puonx khe zjix
-本科生	puonx khua srang
+本科生	puonx khua srieng
 朱元璋	cjyo ngyan cjang
 朱利婭	cjyo liih qrah
 朱利安	cjyo liih qan
@@ -31464,7 +31464,7 @@ use_preset_vocabulary: true
 杏仁體	ghrangx njin thex
 杏花嶺	ghrangx hrua liengx
 杏花村	ghrangx hrua chuon
-杜月笙	dox ngyat srang
+杜月笙	dox ngyat srieng
 杜荀鶴	dox syn ghak
 杜蕾斯	dox luaix sie
 杜鵑座	dox kuen zuah
@@ -31698,7 +31698,7 @@ use_preset_vocabulary: true
 構想圖	kuh siangx do
 構詞學	kuh zsi ghruk
 槭糖漿	ciuk dang ciang
-槲寄生	ghuk kieh srang
+槲寄生	ghuk kieh srieng
 樓梯口	lu the khux
 樓梯臺	lu the dai
 樓梯間	lu the krenh
@@ -32564,8 +32564,8 @@ use_preset_vocabulary: true
 特雷沃	dok luai quuk
 特雷莎	dok luai sua
 特魯多	dok lox ta
-犧牲品	hie srang phimx
-犧牲者	hie srang cjax
+犧牲品	hie srieng phimx
+犧牲者	hie srieng cjax
 犯罪學	byamx zuaix ghruk
 犯罪者	byamx zuaix cjax
 狀聲詞	zriangh sjeng zsi
@@ -32582,8 +32582,8 @@ use_preset_vocabulary: true
 狼牙山	lang ngra sren
 猛勁兒	mrangx kjengh nje
 猜得透	chai tok thuh
-猩紅熱	srang ghung njet
-猩紅色	srang ghung srik
+猩紅熱	srieng ghung njet
+猩紅色	srieng ghung srik
 猴孩子	ghu ghai cix
 猴皮筋	ghu bie kion
 猴麵包	ghu menh prau
@@ -34118,7 +34118,7 @@ use_preset_vocabulary: true
 落地籤	lak diih chiem
 落基山	lak ki sren
 落水管	lak sjyix kuanx
-落花生	lak hrua srang
+落花生	lak hrua srieng
 落馬洲	lak mrax cju
 葛法翁	kat pyap qung
 葛縷子	kat lyox cix
@@ -35957,7 +35957,7 @@ use_preset_vocabulary: true
 黑浮鷗	hok biu qu
 黑澤明	hok drak mieng
 黑煤玉	hok muai ngyuk
-黑猩猩	hok srang srang
+黑猩猩	hok srieng srieng
 黑琴雞	hok gim ke
 黑百靈	hok prak leng
 黑皮諾	hok bie nak
@@ -36189,7 +36189,7 @@ use_preset_vocabulary: true
 七拼八湊	chit preng pret chuh
 七政四餘	chit cjengh siih jo
 七旬老人	chit zsyn laux njin
-七竅生煙	chit kheuh srang qen
+七竅生煙	chit kheuh srieng qen
 七老八十	chit laux pret zjip
 七聲音階	chit sjeng qim krai
 七葷八素	chit hyon pret soh
@@ -36210,7 +36210,7 @@ use_preset_vocabulary: true
 三權鼎立	sam gyen tengx lip
 三次方程	sam chiih pyang drieng
 三次曲線	sam chiih khyuk sienh
-三生有幸	sam srang iux ghrengx
+三生有幸	sam srieng iux ghrengx
 三藩叛亂	sam pyan buanh luanh
 三角戀愛	sam kruk lyenh qaih
 三貞九烈	sam trieng kiux liet
@@ -36257,7 +36257,7 @@ use_preset_vocabulary: true
 亂七八糟	luanh chit pret cau
 亂成一團	luanh zjeng qjit duan
 亂臣賊子	luanh zjin zok cix
-了卻此生	leux khiak chiex srang
+了卻此生	leux khiak chiex srieng
 了無新意	leux myo sin qih
 二八佳人	njiih pret kre njin
 二十一條	njiih zjip qjit deu
@@ -36553,7 +36553,7 @@ use_preset_vocabulary: true
 健康受損	gianh khang zjux suonx
 健康狀況	gianh khang zriangh hyangh
 健美運動	gianh miix yonh dungx
-側生動物	crik srang dungx myot
+側生動物	crik srieng dungx myot
 偷天換日	thu then ghuanh njit
 偷香竊玉	thu hiang chet ngyuk
 傑伊漢港	giet qjii hanh krungx
@@ -37032,7 +37032,7 @@ use_preset_vocabulary: true
 同軸圓弧	dung driuk yen gho
 同軸電纜	dung driuk denh lamh
 同途殊歸	dung do zjyo kyoi
-同配生殖	dung phuaih srang zjik
+同配生殖	dung phuaih srieng zjik
 名噪一時	mjeng sauh qjit zji
 名存實亡	mjeng zuon zsjit myang
 名揚四海	mjeng jang siih haix
@@ -37404,7 +37404,7 @@ use_preset_vocabulary: true
 好整以暇	hauh cjengx jix ghrah
 妖魔鬼怪	qieu mua kyoix kruaih
 妙手回春	mjeuh sjux ghuai chjyn
-妙筆生花	mjeuh pit srang hrua
+妙筆生花	mjeuh pit srieng hrua
 姆巴巴納	muh pra pra nop
 姍姍來遲	san san lai drii
 姑妄言之	ko myangh ngian cji
@@ -37899,7 +37899,7 @@ use_preset_vocabulary: true
 忽魯謨斯	huot lox mo sie
 怡然自得	ji njen ziih tok
 怡顏悅色	ji ngran jyet srik
-急中生智	kip triung srang trieh
+急中生智	kip triung srieng trieh
 急如星火	kip njo seng huax
 急急忙忙	kip kip mang mang
 急性腸炎	kip siengh driang iem
@@ -37928,7 +37928,7 @@ use_preset_vocabulary: true
 悲天憫人	pii then minx njin
 情同骨肉	zieng dung kuot njuk
 情境模型	zieng kiengx mo gheng
-情急智生	zieng kip trieh srang
+情急智生	zieng kip trieh srieng
 情有可原	zieng iux khax ngyan
 情有獨鍾	zieng iux duk cjyung
 情竇初開	zieng duh chrio khai
@@ -37993,7 +37993,7 @@ use_preset_vocabulary: true
 應用物理	qingh jyungh myot lix
 應用程式	qingh jyungh drieng sjik
 應用軟件	qingh jyungh njyenx gienx
-應運而生	qingh yonh nji srang
+應運而生	qingh yonh nji srieng
 懲一警百	dring qjit kiengx prak
 懵懵懂懂	mungx mungx tungx tungx
 懶得搭理	lanx tok thap lix
@@ -38289,7 +38289,7 @@ use_preset_vocabulary: true
 日本黑道	njit puonx hok daux
 日無暇晷	njit myo ghrah kyix
 日落西山	njit lak se sren
-日落風生	njit lak piung srang
+日落風生	njit lak piung srieng
 日薄崦嵫	njit bak qiem ci
 日電電子	njit denh denh cix
 早睡早起	caux zjyeh caux khix
@@ -38531,7 +38531,7 @@ use_preset_vocabulary: true
 栗頭雀鶥	lit du ciak mii
 栗頰噪鶥	lit kep sauh mii
 栗額鶪鶥	lit ngrak kuek mii
-栩栩如生	hyox hyox njo srang
+栩栩如生	hyox hyox njo srieng
 核子醫學	ghrek cix qi ghruk
 核對帳目	ghrek tuaih triangh miuk
 核糖核酸	ghrek dang ghrek suan
@@ -38635,7 +38635,7 @@ use_preset_vocabulary: true
 歸心似箭	kyoi sim zsix cienh
 歸根到底	kyoi kon tauh tex
 歸根結底	kyoi kon ket tex
-死中求生	siix triung giu srang
+死中求生	siix triung giu srieng
 死乞白賴	siix khiot brak lad
 死亡筆記	siix myang pit kih
 死心踏地	siix sim thop diih
@@ -38712,7 +38712,7 @@ use_preset_vocabulary: true
 河外星雲	gha nguad seng yon
 河豚毒素	gha duon duuk soh
 沸沸揚揚	pyoih pyoih jang jang
-油然而生	ju njen nji srang
+油然而生	ju njen nji srieng
 治國理政	dri kuok lix cjengh
 沼澤地帶	cjeux drak diih tad
 沼澤山雀	cjeux drak sren ciak
@@ -39277,7 +39277,7 @@ use_preset_vocabulary: true
 白雪公主	brak syet kung cjyox
 白雪皚皚	brak syet ngai ngai
 白雲機場	brak yon kioi driang
-白面書生	brak mjenh sjo srang
+白面書生	brak mjenh sjo srieng
 白頂玄鷗	brak tengx ghuen qu
 白項鳳鶥	brak ghrungx biungh mii
 白領八哥	brak liengx pret ka
@@ -39953,7 +39953,7 @@ use_preset_vocabulary: true
 芳香療法	phyang hiang lieuh pyap
 苛捐雜稅	gha jyen zop sjyed
 苯甲酸鈉	puonx krap suan njyed
-英勇犧牲	qieng jyungx hie srang
+英勇犧牲	qieng jyungx hie srieng
 英國石油	qieng kuok zjek ju
 英姿颯爽	qieng cii sop sriangx
 英年早逝	qieng nen caux zjed
@@ -40055,7 +40055,7 @@ use_preset_vocabulary: true
 蘭斯洛特	lan sie lak dok
 蘭新鐵路	lan sin thet loh
 蘭開斯特	lan khai sie dok
-虎口餘生	hox khux jo srang
+虎口餘生	hox khux jo srieng
 虎尾春冰	hox myoix chjyn ping
 虎斑地鶇	hox pran diih tung
 虎斑鸚鵡	hox pran qreng myox
@@ -40279,7 +40279,7 @@ use_preset_vocabulary: true
 赫福特郡	hrak piuk dok gyonh
 赫耳墨斯	hrak njix mok sie
 起早貪黑	khix caux thom hok
-起死回生	khix siix ghuai srang
+起死回生	khix siix ghuai srieng
 起落裝置	khix lak criang trih
 超乎尋常	thrieu gho zsim zjang
 超導電性	thrieu dauh denh siengh
@@ -40915,7 +40915,7 @@ use_preset_vocabulary: true
 鬥私批修	tuh sii phe siu
 鬱鬱寡歡	qyot qyot kruax huan
 鬼斧神工	kyoix pyox zsjin kung
-鬼由心生	kyoix ju sim srang
+鬼由心生	kyoix ju sim srieng
 鬼計多端	kyoix keh ta tuan
 鬼話連篇	kyoix ghruad lien phjen
 鬼迷心竅	kyoix me sim kheuh
@@ -41175,7 +41175,7 @@ use_preset_vocabulary: true
 口技表演者	khux giex pieux jenx cjax
 古傑拉特邦	kox giet lop dok prung
 古吉拉特邦	kox kjit lop dok prung
-古生物學家	kox srang myot ghruk kra
+古生物學家	kox srieng myot ghruk kra
 可持續發展	khax dri zsyuk pyat trienx
 史前古器物	srix zen kox khiih myot
 司馬遼太郎	si mrax leu thad lang
@@ -41259,7 +41259,7 @@ use_preset_vocabulary: true
 字根通用碼	zih kon thung jyungh mrax
 存款准備金	zuon khuanx cjynx biih kim
 學而優則仕	ghruk nji qiu cok zrix
-宇宙生成論	yox driuh srang zjeng luonh
+宇宙生成論	yox driuh srieng zjeng luonh
 安納波利斯	qan nop pua liih sie
 宋武帝劉裕	suungh myox teh liu jyoh
 完形心理學	ghuan gheng sim lix ghruk
@@ -41317,7 +41317,7 @@ use_preset_vocabulary: true
 彭博通訊社	brang pak thung sinh zjax
 徐霞客遊記	zsio ghra khrak ju kih
 得克薩斯州	tok khok sat sie cju
-微生物學家	myoi srang myot ghruk kra
+微生物學家	myoi srieng myot ghruk kra
 德克薩斯州	tok khok sat sie cju
 德古西加巴	tok kox se kra pra
 德謨克拉西	tok mo khok lop se
@@ -41359,7 +41359,7 @@ use_preset_vocabulary: true
 新西伯利亞	sin se prak liih qrah
 日本共同社	njit puonx gyungh dung zjax
 日本松雀鷹	njit puonx zsyung ciak qing
-早死早超生	caux siix caux thrieu srang
+早死早超生	caux siix caux thrieu srieng
 春江花月夜	chjyn krung hrua ngyat jah
 普羅維登斯	phox la jyi tong sie
 普通老百姓	phox thung laux prak siengh
@@ -41723,8 +41723,8 @@ use_preset_vocabulary: true
 黑額山噪鶥	hok ngrak sren sauh mii
 點對點加密	temx tuaih temx kra mit
 一個中國政策	qjit kah triung kuok cjengh chrek
-一回生二回熟	qjit ghuai srang njiih ghuai zjuk
-一回生兩回熟	qjit ghuai srang liangx ghuai zjuk
+一回生二回熟	qjit ghuai srieng njiih ghuai zjuk
+一回生兩回熟	qjit ghuai srieng liangx ghuai zjuk
 一掬同情之淚	qjit kiuk dung zieng cji lyih
 一條道走到黑	qjit deu daux cux tauh hok
 一步一個腳印	qjit boh qjit kah kiak qjinh
@@ -41971,11 +41971,11 @@ use_preset_vocabulary: true
 銷售時點情報系統	sieu zjuh zji temx zieng pauh gheh thuungh
 順我者昌逆我者亡	zsjynh ngax cjax chjang ngiek ngax cjax myang
 黃花崗七十二烈士	ghuang hrua kang chit zjip njiih liet zrix
-海森堡不确定性原理	haix srim paux pyot ghruk dengh siengh ngyan lix
-馬爾可夫鏈蒙特卡洛	mrax njex khax pyo lien mung dok khrax lak
 二十年目睹之怪現狀	njiih zjip nen miuk tox cji kruaih ghenh zriangh
 司馬昭之心路人皆知	si mrax cjeu cji sim loh njin krai trie
 埃文河畔斯特拉特福	qai myon gha buanh sie dok lop dok piuk
+海森堡不确定性原理	haix srim paux pyot ghruk dengh siengh ngyan lix
 溫布爾登網球公開賽	quon poh njex tong myangx giu kung khai saih
+馬爾可夫鏈蒙特卡洛	mrax njex khax pyo lien mung dok khrax lak
 巴勒斯坦民族權力機構	pra lok sie thanx mjin zuk gyen lik kioi kuh
 布魯克海文國家實驗室	poh lox khok haix myon kuok kra zsjit ngiemh sjit

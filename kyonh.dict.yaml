@@ -3,7 +3,7 @@
 
 ---
 name: kyonh
-version: "2020.10.15-2"
+version: "20201015-rev20220316-3"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -3543,7 +3543,6 @@ import_tables:
 丌	ki
 不	piu	2%
 不	piux	2%
-不	puot	0%
 不	pyot
 与	jox
 丏	menx
@@ -3562,7 +3561,6 @@ import_tables:
 丟	ty
 丠	khiu
 両	liangx
-丢	ty
 丣	jux
 並	bengx
 丨	gyat
@@ -3610,7 +3608,7 @@ import_tables:
 乘	zsjingh
 乙	qit
 乚	qionx
-乜	mjax
+乜	miax
 九	kiux
 乞	khiot
 也	jax
@@ -5081,7 +5079,7 @@ import_tables:
 咦	hjii
 咧	liet
 咨	cii
-咩	mja
+咩	mia
 咩	mjex
 咪	me
 咪	mjex
@@ -12101,9 +12099,7 @@ import_tables:
 爵	ciak
 父	byox
 父	pyox	10%
-爸	bax
-爸	buax	10%
-爸	prah	10%
+爸	buax
 爹	dax	50%
 爹	tria
 爺	ja
@@ -13775,8 +13771,8 @@ import_tables:
 社	zjax
 礿	jak
 祀	zsix
-祁	cjiix
-祁	gii
+祁	cjiix	0%
+祁	gjii
 祂	tha
 祅	hen
 祅	qieu
@@ -14128,7 +14124,6 @@ import_tables:
 竁	chryed
 竁	chyed
 竂	leu
-竄	chuan
 竄	chuanh
 竅	kheuh
 竇	duh
@@ -27576,12 +27571,12 @@ import_tables:
 乾澀	kan srip
 乾燒	kan sjeu
 乾燥	kan saux
-乾爸	kan bax
+乾爸	kan buax
 乾爹	kan tria
 乾爽	kan sriangx
 乾癟	kan phjet
 乾白	kan brak
-乾硬	kan ngrangh
+乾硬	kan ngrengh
 乾等	kan tongx
 乾粉	kan pyonx
 乾糧	kan liang
@@ -28164,6 +28159,7 @@ import_tables:
 眞相	cjin siangh
 着裝	triak criang
 睡覺	zjyeh krauh
+祁山	gjii sren
 票價	phjeuh krah
 票錢	phjeuh zien
 秋請	chiu ziengh
@@ -28496,7 +28492,7 @@ import_tables:
 二人轉	njiih njin tryenh
 代謝率	daih zsiah lyt
 函谷關	ghrem kuk kruan
-南北朝	nod pok drieu
+南北朝	nom pok drieu
 吐谷渾	thox jyuk ghuon
 大汶口	dad myonh khux
 將進酒	chiang cinh ciux
@@ -28511,6 +28507,7 @@ import_tables:
 梅乾菜	muai kan chaih
 爲什麼	yeh zjip mua
 白雲觀	brak yon kuanh
+祁連山	gjii lien sren
 紅種人	ghung cjyungx njin
 自乾五	ziih kan ngox
 自行車	ziih ghrang chja
@@ -28522,6 +28519,7 @@ import_tables:
 青少年	cheng sjeuh nen
 高句驪	kau ku lie
 不亦說乎	pyot jek jyet gho
+六出祁山	liuk chjyt gjii sren
 十年樹木	zjip nen zjyox muk
 審時度勢	sjimx zji dak sjed
 推心置腹	thuai sim trih piuk
