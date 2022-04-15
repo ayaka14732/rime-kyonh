@@ -26,6 +26,17 @@ use_preset_vocabulary: true
 ...
 '''
 
+OVERRIDES = {
+    'sraeng': 'srjaeng',
+    'gij': 'gjij',
+    'kjij': 'kij',
+}
+
+ADDITION = '''
+海森堡不确定性原理\thaix srim paux pyot ghruk dengh siengh ngyan lix
+馬爾可夫鏈蒙特卡洛\tmrax njex khax pyo lien mung dok khrax lak
+'''.lstrip('\n')
+
 with open('cache/words_certain.tsv') as f, \
         open('kyonh.words.dict.yaml', 'w') as g1, \
         open('cache/unhandled.txt', 'w') as g2:
@@ -34,9 +45,11 @@ with open('cache/words_certain.tsv') as f, \
         ci, gu, _, _ = line.rstrip('\n').split('\t')
         gu = gu.replace('’', "'")  # preprocess
         try:
-            gu = ' '.join(描述2kyonh[baxter2描述[py]] for py in gu.split(' '))
+            gu = ' '.join(描述2kyonh[baxter2描述[OVERRIDES.get(py, py)]]
+                          for py in gu.split(' '))
             print(ci, gu, sep='\t', file=g1)
         except KeyError:
             for c, py in zip(ci, gu.split(' ')):
                 if py not in baxter2描述:
                     print(c, py, sep='\t', file=g2)
+    print(ADDITION, file=g1)

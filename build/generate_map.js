@@ -7,7 +7,7 @@ const baxterMap = [];
 
 function* 生成音韻地位() {
   yield* Qieyun.iter音韻地位();
-  yield* ["生開二庚平", "幫三庚入", "見開三B仙入"].map((描述) =>
+  yield* ["並咍上", "滂咍上", "幫三庚入", "見開三B仙入"].map((描述) =>
     Qieyun.音韻地位.from描述(描述)
   );
 }
