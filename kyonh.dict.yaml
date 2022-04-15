@@ -3,7 +3,7 @@
 
 ---
 name: kyonh
-version: "20201015-rev20220316-3"
+version: "20201015-rev20220415"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -1678,7 +1678,7 @@ import_tables:
 䅩	cjex
 䅬	qreh
 䅭	bang
-䅲	gii
+䅲	gjii
 䅳	zryo
 䅵	cjak
 䅵	kuuk
@@ -4738,7 +4738,7 @@ import_tables:
 匴	suanx
 匵	duk
 匶	giuh
-匸	hex
+匸	ghex
 匹	phjit
 医	qeh
 匽	qianh
@@ -7607,7 +7607,7 @@ import_tables:
 徭	jeu
 微	myoi
 徯	ghe
-徯	hex
+徯	ghex
 徵	tring
 徵	trix	20%
 德	tok
@@ -7949,7 +7949,7 @@ import_tables:
 愫	soh
 愬	soh
 愬	srek
-愭	gii
+愭	gjii
 愮	jeu
 愯	syungx
 愱	zit
@@ -11012,7 +11012,7 @@ import_tables:
 浿	phad
 浿	phraih
 涀	ghenh
-涀	hex
+涀	ghex
 涀	khenh
 涂	do
 涂	drio
@@ -15267,7 +15267,7 @@ import_tables:
 考	khaux
 耄	mauh
 者	cjax
-耆	gii
+耆	gjii
 耇	kux
 耋	det
 而	nji
@@ -18173,7 +18173,7 @@ import_tables:
 謏	suh
 謏	sux
 謐	mjit
-謑	hex
+謑	ghex
 謑	hrah
 謑	hreh
 謒	chiang
@@ -21537,7 +21537,7 @@ import_tables:
 鬍	gho
 鬎	lat
 鬏	ciu
-鬐	gii
+鬐	gjii
 鬑	lem
 鬑	liem
 鬒	cjinx
@@ -21688,7 +21688,7 @@ import_tables:
 鮦	dung
 鮧	de
 鮧	jii
-鮨	gii
+鮨	gjii
 鮩	bengx
 鮩	bjit
 鮩	brangx
@@ -21803,7 +21803,7 @@ import_tables:
 鰩	jeu
 鰪	qap
 鰬	gien
-鰭	gii
+鰭	gjii
 鰱	lien
 鰲	ngau
 鰳	lok
@@ -24620,14 +24620,14 @@ import_tables:
 𥉈	thek
 𥉋	dong
 𥉍	chji
-𥉐	hex
+𥉐	ghex
 𥉑	ghak
 𥉑	juk
 𥉓	met
 𥉓	mje
 𥉔	krengx
 𥉘	de
-𥉙	gii
+𥉙	gjii
 𥉛	qenh
 𥉨	thrim
 𥉴	mit
@@ -24901,7 +24901,7 @@ import_tables:
 𥰠	liox
 𥰢	sjenh
 𥰣	liu
-𥰥	hex
+𥰥	ghex
 𥰨	dam
 𥰭	crax
 𥰭	za
@@ -25188,7 +25188,7 @@ import_tables:
 𦒸	zjyoh
 𦒻	temh
 𦒻	temx
-𦓀	gii
+𦓀	gjii
 𦓒	nji
 𦓝	cjyenx
 𦓝	cjyex
@@ -25381,7 +25381,7 @@ import_tables:
 𦩣	kheh
 𦩤	duot
 𦩨	cin
-𦩶	hex
+𦩶	ghex
 𦩻	trieu
 𦪆	gi
 𦪇	luk
@@ -25891,7 +25891,7 @@ import_tables:
 𧡬	thrimh
 𧡷	jeuh
 𧡹	ju
-𧡺	gii
+𧡺	gjii
 𧢄	pjeux
 𧢌	kau
 𧢗	tu
@@ -25952,7 +25952,7 @@ import_tables:
 𧨀	sua
 𧨁	cia
 𧨃	hek
-𧨍	hex
+𧨍	ghex
 𧨫	hrangh
 𧨹	lyuk
 𧩦	kik
@@ -26481,7 +26481,7 @@ import_tables:
 𨧦	pie
 𨩪	thrienx
 𨪉	de
-𨪌	gii
+𨪌	gjii
 𨪎	qiuk
 𨪐	dux
 𨪴	ke

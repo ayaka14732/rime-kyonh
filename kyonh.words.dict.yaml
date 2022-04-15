@@ -3,7 +3,7 @@
 
 ---
 name: kyonh.words
-version: "2021.11.09-rev20220316-3"
+version: "2022.04.15"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1475,6 +1475,8 @@ use_preset_vocabulary: true
 個舊	kah giuh
 個頭	kah du
 個體	kah thex
+倍塔	baix thap
+倍感	baix komx
 倔強	gyot giang
 倖存	ghrengx zuon
 倦怠	gyenh daix
@@ -1828,6 +1830,7 @@ use_preset_vocabulary: true
 充裕	chjung jyoh
 充軍	chjung kyon
 充電	chjung denh
+充飢	chjung kii
 兆周	drieux cju
 兆赫	drieux hrak
 兆頭	drieux du
@@ -2798,6 +2801,7 @@ use_preset_vocabulary: true
 加之	kra cji
 加以	kra jix
 加侖	kra lyn
+加倍	kra baix
 加值	kra drih
 加價	kra krah
 加入	kra njip
@@ -3136,6 +3140,7 @@ use_preset_vocabulary: true
 十二	zjip njiih
 十五	zjip ngox
 十位	zjip yih
+十倍	zjip baix
 十億	zjip qik
 十克	zjip khok
 十全	zjip zyen
@@ -4285,6 +4290,7 @@ use_preset_vocabulary: true
 問路	myonh loh
 問道	myonh daux
 問鼎	myonh tengx
+啡廳	phaix theng
 啼哭	de khuk
 啼囀	de tryenh
 啼聲	de sjeng
@@ -6161,6 +6167,7 @@ use_preset_vocabulary: true
 安人	qan njin
 安仁	qan njin
 安保	qan paux
+安倍	qan baix
 安全	qan zyen
 安利	qan liih
 安化	qan hruah
@@ -6233,6 +6240,7 @@ use_preset_vocabulary: true
 宋書	suungh sjo
 宋江	suungh krung
 宋白	suungh brak
+宋祁	suungh gjii
 宋體	suungh thex
 完了	ghuan leux
 完人	ghuan njin
@@ -7123,6 +7131,7 @@ use_preset_vocabulary: true
 尾音	myoix qim
 尾韻	myoix yonh
 尾骨	myoix kuot
+尾鰭	myoix gjii
 尿尿	neuh neuh
 尿布	neuh poh
 尿床	neuh zriang
@@ -8500,6 +8509,7 @@ use_preset_vocabulary: true
 心結	sim ket
 心緒	sim zsiox
 心聲	sim sjeng
+心肌	sim kii
 心肝	sim kan
 心腸	sim driang
 心腹	sim piuk
@@ -16214,6 +16224,7 @@ use_preset_vocabulary: true
 環節	ghruan cet
 環線	ghruan sienh
 環翠	ghruan chyih
+環肌	ghruan kii
 環路	ghruan loh
 環遊	ghruan ju
 環面	ghruan mjenh
@@ -16894,6 +16905,7 @@ use_preset_vocabulary: true
 白鸛	brak kuanh
 白麵	brak menh
 百位	prak yih
+百倍	prak baix
 百十	prak zjip
 百姓	prak siengh
 百威	prak qyoi
@@ -17609,6 +17621,8 @@ use_preset_vocabulary: true
 社頭	zjax du
 祀物	zsix myot
 祀神	zsix zsjin
+祁門	gjii muon
+祁陽	gjii jang
 祆道	hen daux
 祈求	gioi giu
 祈福	gioi piuk
@@ -19586,6 +19600,7 @@ use_preset_vocabulary: true
 翹課	gjeu khuah
 翹起	gjeu khix
 翻修	phyan siu
+翻倍	phyan baix
 翻動	phyan dungx
 翻印	phyan qjinh
 翻唱	phyan chjangh
@@ -19938,6 +19953,11 @@ use_preset_vocabulary: true
 肉麻	njuk mra
 肋眼	lok ngrenx
 肋骨	lok kuot
+肌理	kii lix
+肌肉	kii njuk
+肌胃	kii yoih
+肌膚	kii pyo
+肌體	kii thex
 肖似	sieuh zsix
 肖像	sieuh zsiangx
 肖恩	sieuh qon
@@ -20175,7 +20195,9 @@ use_preset_vocabulary: true
 腹帶	piuk tad
 腹水	piuk sjyix
 腹痛	piuk thungh
+腹肌	piuk kii
 腹腔	piuk khrung
+腹鰭	piuk gjii
 腹黑	piuk hok
 腿腕	thuaix quanh
 腿腳	thuaix kiak
@@ -20183,7 +20205,9 @@ use_preset_vocabulary: true
 膀胱	bang kuang
 膀臂	bang pjeh
 膂力	liox lik
+膈肌	krek kii
 膈肢	krek cje
+膕肌	kruek kii
 膘肥	phjeux byoi
 膚淺	pyo chienx
 膚色	pyo srik
@@ -20215,6 +20239,8 @@ use_preset_vocabulary: true
 臀溝	duon ku
 臀瓣	duon brenh
 臀疣	duon iu
+臀肌	duon kii
+臀鰭	duon gjii
 臂彎	pjeh qruan
 臂章	pjeh cjang
 臂紗	pjeh sra
@@ -21120,6 +21146,7 @@ use_preset_vocabulary: true
 蓄水	thriuk sjyix
 蓄謀	thriuk miu
 蓉城	jyung zjeng
+蓓蕾	baix luaix
 蓖麻	pe mra
 蓬亂	bung luanh
 蓬勃	bung buot
@@ -25697,6 +25724,7 @@ use_preset_vocabulary: true
 雖然	syi njen
 雙乳	srung njyox
 雙人	srung njin
+雙倍	srung baix
 雙側	srung crik
 雙刃	srung njinh
 雙向	srung hiangh
@@ -26658,6 +26686,7 @@ use_preset_vocabulary: true
 飛鷹	pyoi qing
 飛鼠	pyoi sjox
 飛龍	pyoi lyung
+飢餓	kii ngah
 飴糖	ji dang
 飼育	zsih juk
 飼草	zsih chaux
@@ -27233,6 +27262,7 @@ use_preset_vocabulary: true
 魚餌	ngio njih
 魚香	ngio hiang
 魚骨	ngio kuot
+魚鰭	ngio gjii
 魚鰾	ngio bjeux
 魚鱗	ngio lin
 魚鷹	ngio qing
@@ -27516,6 +27546,7 @@ use_preset_vocabulary: true
 黃簡	ghuang krenx
 黃綠	ghuang lyuk
 黃羊	ghuang jang
+黃耆	ghuang gjii
 黃色	ghuang srik
 黃芪	ghuang gje
 黃花	ghuang hrua
@@ -28059,6 +28090,7 @@ use_preset_vocabulary: true
 亂花錢	luanh hrua zien
 亂蓬蓬	luanh bung bung
 二人臺	njiih njin dai
+二倍體	njiih baix thex
 二元醇	njiih ngyan zjyn
 二十多	njiih zjip ta
 二名法	njiih mjeng pyap
@@ -28102,6 +28134,7 @@ use_preset_vocabulary: true
 二鍋頭	njiih kua du
 二阿姨	njiih qa jii
 二項式	njiih ghrungx sjik
+二頭肌	njiih du kii
 二鬼子	njiih kyoix cix
 互通性	ghoh thung siengh
 五代史	ngox daih srix
@@ -28409,6 +28442,7 @@ use_preset_vocabulary: true
 個性化	kah siengh hruah
 個舊市	kah giuh zjix
 個頭兒	kah du nje
+倍頻器	baix bjin khiih
 倖存者	ghrengx zuon cjax
 倪嗣沖	nge zsih driung
 倪桂珍	nge kueh trin
@@ -28535,6 +28569,7 @@ use_preset_vocabulary: true
 八仙桌	pret sien truk
 八仙湖	pret sien gho
 八位元	pret yih ngyan
+八倍體	pret baix thex
 八八六	pret pret liuk
 八公山	pret kung sren
 八卦山	pret krueh sren
@@ -28577,6 +28612,7 @@ use_preset_vocabulary: true
 公休日	kung hiu njit
 公佈欄	kung poh lan
 公信力	kung sinh lik
+公倍式	kung baix sjik
 公元前	kung ngyan zen
 公務員	kung myoh yon
 公司法	kung si pyap
@@ -28722,6 +28758,7 @@ use_preset_vocabulary: true
 前甲板	zen krap pranx
 前瞻性	zen cjem siengh
 前置詞	zen trih zsi
+前鋸肌	zen kioh kii
 前鼻音	zen bjiih qim
 剛朵拉	kang tuax lop
 剛果河	kang kuax gha
@@ -29392,6 +29429,7 @@ use_preset_vocabulary: true
 四邊形	siih pen gheng
 四部曲	siih box khyuk
 四面體	siih mjenh thex
+四頭肌	siih du kii
 回力球	ghuai lik giu
 回墨印	ghuai mok qjinh
 回娘家	ghuai nriang kra
@@ -29604,6 +29642,7 @@ use_preset_vocabulary: true
 外骨骼	nguad kuot krak
 多伊爾	ta qjii njex
 多佛爾	ta byot njex
+多倍體	ta baix thex
 多倫多	ta lyn ta
 多側面	ta crik mjenh
 多元化	ta ngyan hruah
@@ -30506,6 +30545,7 @@ use_preset_vocabulary: true
 心眼多	sim ngrenx ta
 心眼小	sim ngrenx sieux
 心絞痛	sim kraux thungh
+心肌炎	sim kii iem
 心血管	sim huet kuanx
 心雜音	sim zop qim
 心電圖	sim denh do
@@ -31536,6 +31576,7 @@ use_preset_vocabulary: true
 林陰道	lim qim daux
 林鵰鴞	lim teu ieu
 林黛玉	lim daih ngyuk
+果倍爽	kuax baix sriangx
 果子狸	kuax cix li
 果子醬	kuax cix ciangh
 果子露	kuax cix loh
@@ -32185,6 +32226,7 @@ use_preset_vocabulary: true
 清紅幫	chieng ghung pang
 減壓病	kremx qrap biengh
 減壓表	kremx qrap pieux
+減搖鰭	kremx jeu gjii
 減速器	kremx suk khiih
 渡渡鳥	doh doh teux
 渡輪船	doh lyn zsjyen
@@ -32919,6 +32961,7 @@ use_preset_vocabulary: true
 白骨精	brak kuot cieng
 白骨頂	brak kuot tengx
 白鬼筆	brak kyoix pit
+白鰭豚	brak gjii duon
 白鵜鶘	brak de gho
 白鶴拳	brak ghak gyen
 白鶴梁	brak ghak liang
@@ -33780,6 +33823,9 @@ use_preset_vocabulary: true
 肉蒲團	njuk bo duan
 肉豆蔻	njuk duh huh
 肉骨茶	njuk kuot dra
+肋間肌	lok krenh kii
+肌纖維	kii siem jyi
+肌電圖	kii denh do
 肖伯納	sieuh prak nop
 肝硬化	kan ngrengh hruah
 股集資	kox zip cii
@@ -33864,9 +33910,11 @@ use_preset_vocabulary: true
 腸胃炎	driang yoih iem
 腸胃道	driang yoih daux
 腹吸盤	piuk hip buan
+腹直肌	piuk drik kii
 腹股溝	piuk kox ku
 腿玩年	thuaix nguanh nen
 膀胱炎	bang kuang iem
+膕繩肌	kruek zsjing kii
 膝上型	sit zjangh gheng
 膝上舞	sit zjangh myox
 膳魔師	zjenh mua srii
@@ -34990,6 +35038,7 @@ use_preset_vocabulary: true
 里程碑	lix drieng pie
 里程表	lix drieng pieux
 里程計	lix drieng keh
+里肌肉	lix kii njuk
 金三角	kim sam kruk
 金剛山	kim kang sren
 金剛座	kim kang zuah
@@ -35329,6 +35378,7 @@ use_preset_vocabulary: true
 雙人床	srung njin zriang
 雙人間	srung njin krenh
 雙休日	srung hiu njit
+雙倍體	srung baix thex
 雙元音	srung ngyan qim
 雙凸面	srung det mjenh
 雙十一	srung zjip qjit
@@ -35722,6 +35772,7 @@ use_preset_vocabulary: true
 骨碌碌	kuot luk luk
 骨都都	kuot to to
 骨頂雞	kuot tengx ke
+骨骼肌	kuot krak kii
 骨髓腔	kuot syex khrung
 髒兮兮	cangx ghe ghe
 髒髒包	cangx cangx prau
@@ -35782,6 +35833,7 @@ use_preset_vocabulary: true
 鯨魚座	gieng ngio zuah
 鯪鯉甲	ling lix krap
 鯪鯉科	ling lix khua
+鰭狀肢	gjii zriangh cje
 鱗翅目	lin sjeh miuk
 鳥嘌呤	teux phjeu leng
 鳥尾蛤	teux myoix kop
@@ -36527,6 +36579,7 @@ use_preset_vocabulary: true
 保駕護航	paux krah ghoh ghang
 信口開河	sinh khux khai gha
 信口雌黃	sinh khux chie ghuang
+信心百倍	sinh sim prak baix
 信息技術	sinh sik giex zsjyt
 信息時代	sinh sik zji daih
 信息管理	sinh sik kuanx lix
@@ -36626,6 +36679,7 @@ use_preset_vocabulary: true
 全體人員	zyen thex njin yon
 全黨全軍	zyen tangx zyen kyon
 八國集團	pret kuok zip duan
+八塊腹肌	pret khuaih piuk kii
 八字命理	pret zih miengh lix
 八寶眼藥	pret paux ngrenx jak
 八拜之交	pret praih cji krau
@@ -36660,6 +36714,7 @@ use_preset_vocabulary: true
 公開鑰匙	kung khai jak zje
 六十四卦	liuk zjip siih krueh
 六十年代	liuk zjip nen daih
+六塊腹肌	liuk khuaih piuk kii
 六日戰爭	liuk njit cjenh creng
 六盤水市	liuk buan sjyix zjix
 六神無主	liuk zsjin myo cjyox
@@ -37861,6 +37916,7 @@ use_preset_vocabulary: true
 心直口快	sim drik khux khruad
 心砰砰跳	sim phreng phreng deu
 心神恍惚	sim zsjin kuang huot
+心肌梗死	sim kii krangx siix
 心肝寶貝	sim kan paux pad
 心腹之患	sim piuk cji ghruanh
 心膽俱裂	sim tamx kyo liet
@@ -38801,6 +38857,7 @@ use_preset_vocabulary: true
 淋巴系統	lim pra gheh thuungh
 淑人君子	zjuk njin kyon cix
 淚流滿面	lyih liu muanx mjenh
+淪肌浹髓	lyn kii cep syex
 淮海戰役	ghruai haix cjenh jyek
 混淆是非	ghuonx ghrau zjex pyoi
 混淆黑白	ghuonx ghrau hok brak
@@ -38857,6 +38914,7 @@ use_preset_vocabulary: true
 漏洩天機	luh jed then kioi
 漏網之魚	luh myangx cji ngio
 漏網游魚	luh myangx ju ngio
+漏脯充飢	luh pyox chjung kii
 演員陣容	jenx yon drinh jyung
 演藝人員	jenx ngjed njin yon
 漠然置之	mak njen trih cji
@@ -39695,6 +39753,7 @@ use_preset_vocabulary: true
 繪聲繪色	ghuad sjeng ghuad srik
 繼往開來	keh yangx khai lai
 續西遊記	zsyuk se ju kih
+纖維肌痛	siem jyi kii thungh
 置之死地	trih cji siix diih
 置換突變	trih ghuanh duot pienh
 羅威納犬	la qyoi nop khuenx
@@ -39798,12 +39857,16 @@ use_preset_vocabulary: true
 肆無忌憚	siih myo gih danh
 肉垂麥雞	njuk zjye mrek ke
 肉眼凡胎	njuk ngrenx byam thai
+肌原纖維	kii ngyan siem jyi
 肝腦塗地	kan naux do diih
+股二頭肌	kox njiih du kii
 股份公司	kox pin kung si
+股四頭肌	kox siih du kii
 股慄膚粟	kox lit pyo syuk
 股東名冊	kox tung mjeng chrek
 肢體衝突	cje thex chjyung duot
 肯塔基州	khongx thap ki cju
+肱二頭肌	kuong njiih du kii
 肺結核病	phyad ket ghrek biengh
 肺腑之言	phyad pyox cji ngian
 胎死腹中	thai siix piuk triung
@@ -40787,6 +40850,8 @@ use_preset_vocabulary: true
 面紅耳赤	mjenh ghung njix chjek
 面部表情	mjenh box pieux zieng
 面面俱到	mjenh mjenh kyo tauh
+面黃肌瘦	mjenh ghuang kii sriuh
+面黃肌閎	mjenh ghuang kii ghrueng
 革命烈士	krek miengh liet zrix
 革故鼎新	krek koh tengx sin
 革蘭陽性	krek lan jang siengh
@@ -40840,6 +40905,8 @@ use_preset_vocabulary: true
 飛禽走獸	pyoi gim cux sjuh
 飛身翻騰	pyoi sjin phyan dong
 飛鳥時代	pyoi teux zji daih
+飢寒交迫	kii ghan krau prak
+飢腸轆轆	kii driang luk luk
 飽以老拳	praux jix laux gyen
 飽餐一頓	praux chan qjit tuonh
 餐末甜酒	chan muat dem ciux
@@ -41467,6 +41534,7 @@ use_preset_vocabulary: true
 甲基苯丙胺	krap ki puonx piengx qat
 異性性接觸	jih siengh siengh ciep chjyuk
 異性戀主義	jih siengh lyenh cjyox ngieh
+異源多倍體	jih ngyan ta baix thex
 病急亂投醫	biengh kip luanh du qi
 病毒式營銷	biengh duuk sjik jyeng sieu
 病毒性營銷	biengh duuk siengh jyeng sieu
@@ -41488,6 +41556,7 @@ use_preset_vocabulary: true
 的的喀喀湖	tek tek khrak khrak gho
 的里雅斯特	tek lix ngrax sie dok
 皇家馬德里	ghuang kra mrax tok lix
+皮膚肌肉囊	bie pyo kii njuk nang
 直落布蘭雅	drik lak poh lan ngrax
 眼紋黃山雀	ngrenx myon ghuang sren ciak
 短尾信天翁	tuanx myoix sinh then qung
@@ -41550,6 +41619,7 @@ use_preset_vocabulary: true
 聖灰瞻禮日	sjengh huai cjem lex njit
 聖賢孔子鳥	sjengh ghen khungx cix teux
 職業運動員	cjik ngiap yonh dungx yon
+肌苷酸二鈉	kii kam suan njiih njyed
 股份制公司	kox pin cjed kung si
 脊椎動物門	ciek dryi dungx myot muon
 腦血管疾病	naux huet kuanx zit biengh
